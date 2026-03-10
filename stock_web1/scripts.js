@@ -1,29 +1,61 @@
-async function loadStocks() {
+const DATA_URL =
+"https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
 
-const response = await fetch("https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stocks.json");
+let lastDataHash = "";
 
-const data = await response.json();
+async function loadStocks(){
 
-const table = document.querySelector("#stockTable tbody");
+    try{
 
-table.innerHTML = "";
+        let response = await fetch(DATA_URL + "?t=" + Date.now());
+        let data = await response.json();
 
-data.forEach(item => {
+        let newHash = JSON.stringify(data);
 
-let row = `
-<tr>
-<td>${item.name}</td>
-<td>${item.qty}</td>
-</tr>
-`;
+        // Only update table if data changed
+        if(newHash !== lastDataHash){
 
-table.innerHTML += row;
+            lastDataHash = newHash;
 
-});
+            let table = document.querySelector("#stockTable tbody");
+
+            table.innerHTML="";
+
+            data.forEach(item=>{
+
+                let row=`
+                <tr>
+                <td>${item.name}</td>
+                <td>${item.qty}</td>
+                </tr>
+                `;
+
+                table.innerHTML+=row;
+
+            });
+
+            document.getElementById("time").innerText =
+            new Date().toLocaleString();
+
+            console.log("Inventory updated");
+
+        }else{
+
+            console.log("No change in inventory");
+
+        }
+
+    }catch(err){
+
+        console.log("Error loading data",err);
+
+    }
 
 }
 
+
+// First load
 loadStocks();
 
-setInterval(loadStocks, 30000);
-
+// Check every 5 minutes
+setInterval(loadStocks,300000);
