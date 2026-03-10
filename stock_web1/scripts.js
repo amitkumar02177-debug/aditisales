@@ -9,14 +9,20 @@ async function loadStocks(){
 
     try{
 
-        // Add timestamp to bypass GitHub cache
-        let response = await fetch(DATA_URL + "?nocache=" + Date.now());
+        const API_URL =
+        "https://api.github.com/repos/amitkumar02177-debug/aditisales/contents/stock_web1/stocks.json";
+
+        let response = await fetch(API_URL);
 
         let data = await response.json();
 
-        let newHash = JSON.stringify(data);
+        // GitHub API returns base64 content
+        let decoded = atob(data.content);
 
-        // Only update table if data changed
+        let stocks = JSON.parse(decoded);
+
+        let newHash = JSON.stringify(stocks);
+
         if(newHash !== lastDataHash){
 
             lastDataHash = newHash;
@@ -25,7 +31,7 @@ async function loadStocks(){
 
             table.innerHTML="";
 
-            data.forEach(item=>{
+            stocks.forEach(item=>{
 
                 let qtyText = item.qty == 0 ? "Out of Stock" : item.qty;
 
@@ -59,7 +65,6 @@ async function loadStocks(){
 
 }
 
-
 // First load when page opens
 loadStocks();
 
@@ -85,3 +90,4 @@ row.style.display = product.includes(input) ? "" : "none";
 }
 
 </script>
+
