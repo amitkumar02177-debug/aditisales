@@ -88,7 +88,9 @@ const DATA_URL =
 
 async function loadStocks(){
 
-let response = await fetch(DATA_URL);
+let response = await fetch(DATA_URL + "?t=" + Date.now(), {
+    cache: "no-store"
+});
 
 let data = await response.json();
 
@@ -143,6 +145,7 @@ setInterval(loadStocks,300000);
 
 </body>
 </html>
+
 
 
 
