@@ -1,6 +1,6 @@
 async function loadStocks() {
 
-const response = await fetch("https://YOUR-API-URL/stocks");
+const response = await fetch("https://raw.githubusercontent.com/YOUR_USERNAME/stock-web/main/stocks.json");
 
 const data = await response.json();
 
