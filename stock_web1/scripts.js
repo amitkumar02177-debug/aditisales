@@ -1,3 +1,5 @@
+<script>
+
 const DATA_URL =
 "https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
 
@@ -7,7 +9,9 @@ async function loadStocks(){
 
     try{
 
-        let response = await fetch(DATA_URL + "?t=" + Date.now());
+        // Add timestamp to bypass GitHub cache
+        let response = await fetch(DATA_URL + "?nocache=" + Date.now());
+
         let data = await response.json();
 
         let newHash = JSON.stringify(data);
@@ -23,14 +27,16 @@ async function loadStocks(){
 
             data.forEach(item=>{
 
-                let row=`
+                let qtyText = item.qty == 0 ? "Out of Stock" : item.qty;
+
+                let row = `
                 <tr>
-                <td>${item.name}</td>
-                <td>${item.qty}</td>
+                    <td>${item.name}</td>
+                    <td>${qtyText}</td>
                 </tr>
                 `;
 
-                table.innerHTML+=row;
+                table.innerHTML += row;
 
             });
 
@@ -47,15 +53,35 @@ async function loadStocks(){
 
     }catch(err){
 
-        console.log("Error loading data",err);
+        console.log("Error loading data:", err);
 
     }
 
 }
 
 
-// First load
+// First load when page opens
 loadStocks();
 
 // Check every 5 minutes
 setInterval(loadStocks,300000);
+
+
+
+function searchProduct(){
+
+let input = document.getElementById("searchBox").value.toLowerCase();
+
+let rows = document.querySelectorAll("#stockTable tbody tr");
+
+rows.forEach(row=>{
+
+let product=row.children[0].textContent.toLowerCase();
+
+row.style.display = product.includes(input) ? "" : "none";
+
+});
+
+}
+
+</script>
