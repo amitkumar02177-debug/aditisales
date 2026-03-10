@@ -1,6 +1,6 @@
 async function loadStocks() {
 
-const response = await fetch("https://raw.githubusercontent.com/YOUR_USERNAME/stock-web/main/stocks.json");
+const response = await fetch("https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stocks.json");
 
 const data = await response.json();
 
@@ -26,3 +26,4 @@ table.innerHTML += row;
 loadStocks();
 
 setInterval(loadStocks, 30000);
+
