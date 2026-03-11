@@ -1,7 +1,7 @@
 [
   {
     "name": "CMF POWER 65W ADP",
-    "qty": 2
+    "qty": 3
   },
   {
     "name": "FLASH 120W",
@@ -9,10 +9,6 @@
   },
   {
     "name": "INFINIX GT 30 8/128",
-    "qty": 1
-  },
-  {
-    "name": "INFINIX HOT 50 8/128",
     "qty": 1
   },
   {
@@ -40,8 +36,12 @@
     "qty": 2
   },
   {
-    "name": "MOTO EDGE 60 FUSION 8/128",
+    "name": "IQOO Z9 S 8/128",
     "qty": 1
+  },
+  {
+    "name": "MOTO EDGE 60 FUSION 8/128",
+    "qty": 2
   },
   {
     "name": "MOTO EDGE 70 8/256",
@@ -49,19 +49,19 @@
   },
   {
     "name": "MOTO G06 POWER 4/64",
-    "qty": 1
+    "qty": 2
   },
   {
     "name": "MOTO G57 POWER 8/128",
-    "qty": 3
+    "qty": 1
   },
   {
     "name": "MOTO G67 POWER 8/128",
     "qty": 3
   },
   {
-    "name": "MOTO G86 POWER 8/128",
-    "qty": 1
+    "name": "NARZO 80 LITE 4/128",
+    "qty": 2
   },
   {
     "name": "NARZO 80 LITE 4/64",
@@ -108,20 +108,36 @@
     "qty": 1
   },
   {
-    "name": "OPPO K13 TURBO 8/256",
-    "qty": 1.0
-  },
-  {
     "name": "OPPO K13X 6/128",
     "qty": 1
   },
   {
-    "name": "POCO M7 6/128",
+    "name": "OPPO K14X 4/128",
+    "qty": 1
+  },
+  {
+    "name": "OPPO K14X 6/128",
+    "qty": 1
+  },
+  {
+    "name": "POCO C71 4/64",
     "qty": 2
   },
   {
-    "name": "POCO M8 8/128",
+    "name": "POCO C85 4/128",
+    "qty": 1
+  },
+  {
+    "name": "POCO C85 6/128",
     "qty": 2
+  },
+  {
+    "name": "POCO M7 6/128",
+    "qty": 3
+  },
+  {
+    "name": "POCO M8 8/128",
+    "qty": 1
   },
   {
     "name": "POCO M8 8/256",
@@ -185,34 +201,70 @@
   },
   {
     "name": "REALME P4X 6/128",
-    "qty": 1
-  },
-  {
-    "name": "REDMI 13 8/128",
-    "qty": 1
+    "qty": 3
   },
   {
     "name": "REDMI 15 5G 6/128",
     "qty": 3
   },
   {
-    "name": "REDMI 15C 5G  4/128",
-    "qty": 2
+    "name": "REDMI 15 5G 8/128",
+    "qty": 1
   },
   {
     "name": "REDMI 15C 5G  6/128",
-    "qty": 2
+    "qty": 3
+  },
+  {
+    "name": "REDMI A5 4G 3/64",
+    "qty": 1
   },
   {
     "name": "REDMI NOTE 15 5G 8/128",
-    "qty": 2
+    "qty": 1
   },
   {
-    "name": "REDMI NOTE 15 5G 8/256",
-    "qty": 2
+    "name": "REDMI NOTE 15 PRO 5G 8/256",
+    "qty": 1
   },
   {
     "name": "REDMI SMART FIRE TV 32",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. ASUS Z6 6/64",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. LAVA Z6 4/64",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. OPPO F17 6/128",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. POCO X5 6/128",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. REDMI 10 PRIME",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. REDMI 9 4/64",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. REDMI N. 9 4/128",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. SAMSUNG J6",
+    "qty": 1
+  },
+  {
+    "name": "REFUR. VIVO Y19 4/128",
     "qty": 1
   },
   {
@@ -341,10 +393,6 @@
   },
   {
     "name": "VIVO Y19 4/64",
-    "qty": 1
-  },
-  {
-    "name": "VIVO Y19S 4/64",
     "qty": 1
   },
   {
