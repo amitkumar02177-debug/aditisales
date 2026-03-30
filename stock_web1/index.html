@@ -1,43 +1,33 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
 <title>Stock List</title>
-
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-
 <style>
-
 body{
 font-family: Arial;
 background:#f5f5f5;
 }
-
 table{
 border-collapse: collapse;
 width: 60%;
 margin:auto;
 background:white;
 }
-
 th,td{
 border:1px solid #ddd;
 padding:10px;
 text-align:center;
 }
-
 th{
 background:#333;
 color:white;
 }
-
 h1{
 text-align:center;
 }
-
 #searchBox{
 display:block;
 margin:20px auto;
@@ -45,110 +35,64 @@ padding:8px;
 width:300px;
 font-size:16px;
 }
-
 #updateTime{
 text-align:center;
 margin-bottom:15px;
 color:gray;
 }
-
 </style>
-
 </head>
-
 <body>
-
 <h1>Available Stock</h1>
-
 <div id="updateTime">
 Last Updated: <span id="time"></span>
 </div>
-
 <input type="text" id="searchBox" placeholder="Search product..." onkeyup="searchProduct()">
-
 <table id="stockTable">
-
 <thead>
 <tr>
 <th>Product Name</th>
 <th>Available Qty</th>
+<th>MOP</th>
 </tr>
 </thead>
-
 <tbody></tbody>
-
 </table>
-
-
 <script>
-
 const DATA_URL =
 "https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
-
-
 async function loadStocks(){
-
 let response = await fetch(DATA_URL + "?t=" + Date.now(), {
     cache: "no-store"
 });
-
 let data = await response.json();
-
 let table = document.querySelector("#stockTable tbody");
-
 table.innerHTML="";
-
 data.forEach(item=>{
-
 let row=`
 <tr>
 <td>${item.name}</td>
 <td>${item.qty}</td>
+<td>${item.mop || ""}</td>
 </tr>
 `;
-
 table.innerHTML+=row;
-
 });
-
 document.getElementById("time").innerText =
 new Date().toLocaleString();
-
 }
-
-
 function searchProduct(){
-
 let input = document.getElementById("searchBox").value.toLowerCase();
-
 let rows = document.querySelectorAll("#stockTable tbody tr");
-
 rows.forEach(row=>{
-
 let product=row.children[0].textContent.toLowerCase();
-
 row.style.display = product.includes(input) ? "" : "none";
-
 });
-
 }
-
-
 loadStocks();
-
 /* auto refresh every 5 minutes */
 setInterval(loadStocks,300000);
-
 </script>
-
 <script src="scripts.js"></script>
-
 </body>
 </html>
-
-
-
-
-
-
-
