@@ -1,370 +1,472 @@
 [
   {
-    "name": "CMF POWER 65W ADP",
-    "qty": 3
+    "name": "CMF POWER 65W ADP (M)",
+    "qty": 3,
+    "mop": 2499
   },
   {
-    "name": "FLASH 120W",
-    "qty": 2
+    "name": "FLASH 120W (M)",
+    "qty": 2,
+    "mop": 999
   },
   {
-    "name": "INFINIX GT 30 8/128",
-    "qty": 1
+    "name": "INFINIX GT 30 8/128 (V)",
+    "qty": 1,
+    "mop": 19499
   },
   {
-    "name": "INFINIX HOT 60I 4/128",
-    "qty": 3
+    "name": "INFINIX HOT 60I 4/128 (V)",
+    "qty": 3,
+    "mop": 11499
   },
   {
-    "name": "IQOO Z10 8/128",
-    "qty": 1
+    "name": "IQOO Z10 8/128 (V)",
+    "qty": 1,
+    "mop": 24999
   },
   {
-    "name": "IQOO Z10 R 8/128",
-    "qty": 1
+    "name": "IQOO Z10 R 8/128 (V)",
+    "qty": 1,
+    "mop": 22999
   },
   {
-    "name": "IQOO Z10 R 8/256",
-    "qty": 2
+    "name": "IQOO Z10 R 8/256 (V)",
+    "qty": 2,
+    "mop": 24999
   },
   {
-    "name": "IQOO Z10X 6/128",
-    "qty": 1
+    "name": "IQOO Z10X 6/128 (V)",
+    "qty": 1,
+    "mop": 16999
   },
   {
-    "name": "LAVA SHARK 5G 4/128",
-    "qty": 1
+    "name": "LAVA SHARK 5G 4/128 (V)",
+    "qty": 1,
+    "mop": 11499
   },
   {
-    "name": "MOTO EDGE 60 FUSION 8/128",
-    "qty": 1
+    "name": "MOTO EDGE 60 FUSION 8/128 (V)",
+    "qty": 1,
+    "mop": 20999
   },
   {
-    "name": "MOTO EDGE 70 8/256",
-    "qty": 1
+    "name": "MOTO EDGE 70 8/256 (V)",
+    "qty": 1,
+    "mop": 29999
   },
   {
-    "name": "MOTO EDGE 70 FUSION 8/128",
-    "qty": 1
+    "name": "MOTO EDGE 70 FUSION 8/128 (V)",
+    "qty": 1,
+    "mop": 26999
   },
   {
-    "name": "MOTO G06 POWER 4/64",
-    "qty": 2
+    "name": "MOTO G06 POWER 4/64 (V)",
+    "qty": 2,
+    "mop": 8999
   },
   {
-    "name": "MOTO G67 POWER 8/128",
-    "qty": 3
+    "name": "MOTO G67 POWER 8/128 (V)",
+    "qty": 3,
+    "mop": 16999
   },
   {
-    "name": "MOTO G96 8/128",
-    "qty": 2
+    "name": "MOTO G96 8/128 (V)",
+    "qty": 2,
+    "mop": 18999
   },
   {
-    "name": "NARZO 80 LITE 4/64",
-    "qty": 1
+    "name": "NARZO 80 LITE 4/64 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "NOTHING 3A LITE 8/128",
-    "qty": 1
+    "name": "NARZO 90 5G 6/128 (V)",
+    "qty": 1,
+    "mop": 17999
   },
   {
-    "name": "NOTHING 4A 8/256",
-    "qty": 1
+    "name": "NARZO 90X 4/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "ONEPLUS PANEL LED 50''",
-    "qty": 1
+    "name": "NOTHING 3A LITE 8/128 (M)",
+    "qty": 1,
+    "mop": 21999
   },
   {
-    "name": "OPPO A6 6/128",
-    "qty": 1
+    "name": "NOTHING 4A 8/256 (V)",
+    "qty": 1,
+    "mop": 34999
   },
   {
-    "name": "OPPO A6X 4/128",
-    "qty": 1
+    "name": "ONEPLUS PANEL LED 50'' (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "OPPO A6X 4/64",
-    "qty": 1
+    "name": "OPPO A6 6/128 (M)",
+    "qty": 1,
+    "mop": 21999
   },
   {
-    "name": "OPPO A6X 6/128",
-    "qty": 1
+    "name": "OPPO A6X 4/128 (M)",
+    "qty": 1,
+    "mop": 16999
   },
   {
-    "name": "OPPO F31 PRO 8/128",
-    "qty": 1
+    "name": "OPPO A6X 4/64 (M)",
+    "qty": 1,
+    "mop": 14999
   },
   {
-    "name": "OPPO K13 8/128",
-    "qty": 1
+    "name": "OPPO A6X 6/128 (M)",
+    "qty": 1,
+    "mop": 18999
   },
   {
-    "name": "OPPO K14X 4/128",
-    "qty": 1
+    "name": "OPPO F31 PRO 8/128 (M)",
+    "qty": 1,
+    "mop": 26999
   },
   {
-    "name": "OPPO K14X 6/128",
-    "qty": 1
+    "name": "OPPO K13 8/128 (V)",
+    "qty": 1,
+    "mop": 22999
   },
   {
-    "name": "POCO C71 4/64",
-    "qty": 1
+    "name": "OPPO K14X 4/128 (V)",
+    "qty": 1,
+    "mop": 14999
   },
   {
-    "name": "POCO C85 6/128",
-    "qty": 2
+    "name": "OPPO K14X 6/128 (V)",
+    "qty": 1,
+    "mop": 16999
   },
   {
-    "name": "POCO M7 6/128",
-    "qty": 2
+    "name": "POCO C71 4/64 (M)",
+    "qty": 1,
+    "mop": 8999
   },
   {
-    "name": "POCO M7 PLUS 6/128",
-    "qty": 2
+    "name": "POCO C85 6/128 (V)",
+    "qty": 2,
+    "mop": 14999
   },
   {
-    "name": "POCO M8 8/128",
-    "qty": 1
+    "name": "POCO M7 6/128 (M)",
+    "qty": 2,
+    "mop": 12499
   },
   {
-    "name": "POCO M8 8/256",
-    "qty": 1
+    "name": "POCO M7 PLUS 6/128 (V)",
+    "qty": 2,
+    "mop": 14999
   },
   {
-    "name": "REALME 15X 6/128",
-    "qty": 1
+    "name": "POCO M8 8/128 (V)",
+    "qty": 1,
+    "mop": 17999
   },
   {
-    "name": "REALME 15X 8/128",
-    "qty": 1
+    "name": "POCO M8 8/256 (V)",
+    "qty": 1,
+    "mop": 20999
   },
   {
-    "name": "REALME BUDS WIRELESS 3 NEO",
-    "qty": 5
+    "name": "REALME 15X 6/128 (V)",
+    "qty": 1,
+    "mop": 21999
   },
   {
-    "name": "REALME C85 4/128",
-    "qty": 1
+    "name": "REALME 15X 8/128 (M)",
+    "qty": 1,
+    "mop": 23999
   },
   {
-    "name": "REALME P3 LITE 4/128",
-    "qty": 2
+    "name": "REALME BUDS WIRELESS 3 NEO (M)",
+    "qty": 5,
+    "mop": 1299
   },
   {
-    "name": "REALME P4 POWER 12/256",
-    "qty": 1
+    "name": "REALME C85 4/128 (M)",
+    "qty": 1,
+    "mop": 18999
   },
   {
-    "name": "REALME P4 POWER 8/128",
-    "qty": 1
+    "name": "REALME P3 LITE 4/128 (V)",
+    "qty": 2,
+    "mop": 12999
   },
   {
-    "name": "REALME P4 POWER 8/256",
-    "qty": 2
+    "name": "REALME P4 POWER 12/256 (V)",
+    "qty": 1,
+    "mop": 31999
   },
   {
-    "name": "REALME P4X 6/128",
-    "qty": 1
+    "name": "REALME P4 POWER 8/128 (V)",
+    "qty": 1,
+    "mop": 25999
   },
   {
-    "name": "REALME P4X 8/128",
-    "qty": 2
+    "name": "REALME P4 POWER 8/256 (V)",
+    "qty": 2,
+    "mop": 27999
   },
   {
-    "name": "REDMI 15 5G 6/128",
-    "qty": 2
+    "name": "REALME P4X 6/128 (V)",
+    "qty": 1,
+    "mop": 16499
   },
   {
-    "name": "REDMI 15 5G 8/128",
-    "qty": 1
+    "name": "REALME P4X 8/128 (V)",
+    "qty": 2,
+    "mop": 17499
   },
   {
-    "name": "REDMI 15C 5G  4/128",
-    "qty": 2
+    "name": "REDMI 15 5G 6/128 (M)",
+    "qty": 2,
+    "mop": 16499
   },
   {
-    "name": "REDMI 15C 5G  6/128",
-    "qty": 2
+    "name": "REDMI 15 5G 8/128 (M)",
+    "qty": 1,
+    "mop": 17999
   },
   {
-    "name": "REDMI A5 4G 3/64",
-    "qty": 2
+    "name": "REDMI 15C 5G  4/128 (M)",
+    "qty": 2,
+    "mop": ""
   },
   {
-    "name": "REDMI NOTE 15 5G 8/128",
-    "qty": 1
+    "name": "REDMI 15C 5G  6/128 (M)",
+    "qty": 2,
+    "mop": ""
   },
   {
-    "name": "REDMI NOTE 15 5G 8/256",
-    "qty": 1
+    "name": "REDMI A5 4G 3/64 (M)",
+    "qty": 2,
+    "mop": 7999
   },
   {
-    "name": "REDMI NOTE 15 PRO 5G 8/256",
-    "qty": 1
+    "name": "REDMI NOTE 15 5G 8/128 (M)",
+    "qty": 1,
+    "mop": 22999
   },
   {
-    "name": "REDMI SMART FIRE TV 32",
-    "qty": 1
+    "name": "REDMI NOTE 15 5G 8/256 (M)",
+    "qty": 1,
+    "mop": 24999
   },
   {
-    "name": "REFUR. A3 PRO 5G 8/128",
-    "qty": 1
+    "name": "REDMI NOTE 15 PRO 5G 8/256 (M)",
+    "qty": 1,
+    "mop": 31999
   },
   {
-    "name": "REFUR. ASUS Z6 6/64",
-    "qty": 1
+    "name": "REDMI SMART FIRE TV 32 (V)",
+    "qty": 1,
+    "mop": 12999
   },
   {
-    "name": "REFUR. LAVA Z6 4/64",
-    "qty": 1
+    "name": "REFUR. A3 PRO 5G 8/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. OPPO F17 6/128",
-    "qty": 1
+    "name": "REFUR. ASUS Z6 6/64 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. REDMI 10 PRIME",
-    "qty": 1
+    "name": "REFUR. LAVA Z6 4/64 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. REDMI 9 4/128",
-    "qty": 1
+    "name": "REFUR. OPPO F17 6/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. REDMI 9 4/64",
-    "qty": 1
+    "name": "REFUR. REDMI 10 PRIME (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. REDMI N. 9 4/128",
-    "qty": 1
+    "name": "REFUR. REDMI 9 4/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "REFUR. VIVO Y19 4/128",
-    "qty": 1
+    "name": "REFUR. REDMI 9 4/64 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAM F16 5G 4/128",
-    "qty": 1
+    "name": "REFUR. REDMI N. 9 4/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG A06 5G 4/128",
-    "qty": 3
+    "name": "REFUR. VIVO Y19 4/128 (V)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG A06 5G 4/64",
-    "qty": 1
+    "name": "SAM F16 5G 4/128 (M)",
+    "qty": 1,
+    "mop": 15499
   },
   {
-    "name": "SAMSUNG A07 5G 4/128",
-    "qty": 1
+    "name": "SAMSUNG A06 5G 4/128 (M)",
+    "qty": 3,
+    "mop": 13999
   },
   {
-    "name": "SAMSUNG A16 8/128",
-    "qty": 1
+    "name": "SAMSUNG A06 5G 4/64 (M)",
+    "qty": 1,
+    "mop": 12499
   },
   {
-    "name": "SAMSUNG A17 6/128",
-    "qty": 1
+    "name": "SAMSUNG A07 5G 4/128 (M)",
+    "qty": 1,
+    "mop": 15999
   },
   {
-    "name": "SAMSUNG A26 8/128",
-    "qty": 1
+    "name": "SAMSUNG A16 8/128 (M)",
+    "qty": 1,
+    "mop": 17499
   },
   {
-    "name": "SAMSUNG ADPTER 15W",
-    "qty": 1
+    "name": "SAMSUNG A17 6/128 (M)",
+    "qty": 1,
+    "mop": 20499
   },
   {
-    "name": "SAMSUNG ADPTER 25W",
-    "qty": 4
+    "name": "SAMSUNG A26 8/128 (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F06 4/128",
-    "qty": 2
+    "name": "SAMSUNG ADPTER 15W (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F06 4/64",
-    "qty": 1
+    "name": "SAMSUNG ADPTER 25W (M)",
+    "qty": 4,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F06 6/128",
-    "qty": 1
+    "name": "SAMSUNG F06 4/128 (M)",
+    "qty": 2,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F15 6/128",
-    "qty": 1
+    "name": "SAMSUNG F06 4/64 (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F17 4/128",
-    "qty": 1
+    "name": "SAMSUNG F06 6/128 (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG F17 6/128",
-    "qty": 1
+    "name": "SAMSUNG F15 6/128 (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "SAMSUNG M06 4/128",
-    "qty": 1
+    "name": "SAMSUNG F17 4/128 (M)",
+    "qty": 1,
+    "mop": 16999
   },
   {
-    "name": "SAMSUNG PD 25W",
-    "qty": 3
+    "name": "SAMSUNG F17 6/128 (M)",
+    "qty": 1,
+    "mop": 18999
   },
   {
-    "name": "TECNO POVA CURVE 2 5G 8/128",
-    "qty": 1
+    "name": "SAMSUNG M06 4/128 (M)",
+    "qty": 1,
+    "mop": ""
   },
   {
-    "name": "TECNO POVA SLIM 5G 8/128",
-    "qty": 1
+    "name": "SAMSUNG PD 25W (M)",
+    "qty": 3,
+    "mop": ""
   },
   {
-    "name": "TECNO SPARK GO 3 4/64",
-    "qty": 2
+    "name": "TECNO POVA CURVE 2 5G 8/128 (M)",
+    "qty": 1,
+    "mop": 27999
   },
   {
-    "name": "VIVO T4 R 8/128",
-    "qty": 1
+    "name": "TECNO POVA SLIM 5G 8/128 (M)",
+    "qty": 1,
+    "mop": 20999
   },
   {
-    "name": "VIVO T4 R 8/256",
-    "qty": 1
+    "name": "TECNO SPARK GO 3 4/64 (M)",
+    "qty": 2,
+    "mop": 8999
   },
   {
-    "name": "VIVO T5X 6/128",
-    "qty": 5
+    "name": "VIVO T4 R 8/128 (V)",
+    "qty": 1,
+    "mop": 22999
   },
   {
-    "name": "VIVO T5X 8/128",
-    "qty": 2
+    "name": "VIVO T4 R 8/256 (V)",
+    "qty": 1,
+    "mop": 24999
   },
   {
-    "name": "VIVO Y11 5G 4/128",
-    "qty": 1
+    "name": "VIVO T5X 6/128 (V)",
+    "qty": 5,
+    "mop": 18999
   },
   {
-    "name": "VIVO Y31 6/128",
-    "qty": 1
+    "name": "VIVO T5X 8/128 (V)",
+    "qty": 2,
+    "mop": 20999
   },
   {
-    "name": "VIVO Y51 PRO 8/128",
-    "qty": 1
+    "name": "VIVO Y11 5G 4/128 (M)",
+    "qty": 1,
+    "mop": 16999
   },
   {
-    "name": "XIAOMI 4K TV X 43\"",
-    "qty": 1
+    "name": "VIVO Y31 6/128 (M)",
+    "qty": 1,
+    "mop": 20999
   },
   {
-    "name": "XIAOMI POWER BANK 4I 10000 22.5W",
-    "qty": 2
+    "name": "VIVO Y51 PRO 8/128 (M)",
+    "qty": 1,
+    "mop": 24999
   },
   {
-    "name": "XIAOMI POWER BANK 4I 20000 33W",
-    "qty": 3
+    "name": "XIAOMI 4K TV X 43\" (M)",
+    "qty": 1,
+    "mop": 25999
   },
   {
-    "name": "XIAOMI QLED TV A PRO 32\"",
-    "qty": 1
+    "name": "XIAOMI POWER BANK 4I 10000 22.5W (M)",
+    "qty": 2,
+    "mop": ""
+  },
+  {
+    "name": "XIAOMI POWER BANK 4I 20000 33W (M)",
+    "qty": 3,
+    "mop": 2299
+  },
+  {
+    "name": "XIAOMI QLED TV A PRO 32\" (M)",
+    "qty": 1,
+    "mop": 15499
   }
 ]
