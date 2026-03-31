@@ -40,6 +40,28 @@ text-align:center;
 margin-bottom:15px;
 color:gray;
 }
+.btn-amazon{
+background:#ff9900;
+color:white;
+border:none;
+padding:5px 10px;
+border-radius:4px;
+cursor:pointer;
+font-size:13px;
+text-decoration:none;
+}
+.btn-flipkart{
+background:#2874f0;
+color:white;
+border:none;
+padding:5px 10px;
+border-radius:4px;
+cursor:pointer;
+font-size:13px;
+text-decoration:none;
+}
+.btn-amazon:hover{ background:#e68a00; }
+.btn-flipkart:hover{ background:#1a5dc8; }
 </style>
 </head>
 <body>
@@ -54,6 +76,7 @@ Last Updated: <span id="time"></span>
 <th>Product Name</th>
 <th>Available Qty</th>
 <th>MOP</th>
+<th>Link</th>
 </tr>
 </thead>
 <tbody></tbody>
@@ -61,6 +84,21 @@ Last Updated: <span id="time"></span>
 <script>
 const DATA_URL =
 "https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
+
+// Brands that go to Amazon
+const AMAZON_BRANDS = ["REDMI", "XIAOMI", "IQOO", "ONEPLUS"];
+
+function getLink(productName) {
+    const encoded = encodeURIComponent(productName);
+    const firstWord = productName.trim().split(" ")[0].toUpperCase();
+
+    if (AMAZON_BRANDS.includes(firstWord)) {
+        return `<a class="btn-amazon" href="https://www.amazon.in/s?k=${encoded}" target="_blank">Amazon</a>`;
+    } else {
+        return `<a class="btn-flipkart" href="https://www.flipkart.com/search?q=${encoded}" target="_blank">Flipkart</a>`;
+    }
+}
+
 async function loadStocks(){
 let response = await fetch(DATA_URL + "?t=" + Date.now(), {
     cache: "no-store"
@@ -74,6 +112,7 @@ let row=`
 <td>${item.name}</td>
 <td>${item.qty}</td>
 <td>${item.mop || ""}</td>
+<td>${getLink(item.name)}</td>
 </tr>
 `;
 table.innerHTML+=row;
