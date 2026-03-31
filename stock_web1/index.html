@@ -89,7 +89,10 @@ const FLIPKART_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 1
 </svg>`;
 
 function cleanProductName(name) {
-    return name.replace(/\s*\(M\/V\)|\s*\(M\)|\s*\(V\)/g, "").trim();
+    return name
+        .replace(/\s*\(M\/V\)|\s*\(M\)|\s*\(V\)/g, "") // Removes suffixes
+        .replace(/\//g, " ")                           // Converts "/" to " "
+        .trim();                                       // Cleans extra spaces
 }
 
 function getLink(productName) {
