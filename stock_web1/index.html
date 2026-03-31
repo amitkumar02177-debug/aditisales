@@ -6,88 +6,26 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #f5f5f5;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-            margin-bottom: 5px;
-        }
-        #updateTime {
-            text-align: center;
-            margin-bottom: 15px;
-            color: gray;
-            font-size: 14px;
-        }
-        #searchBox {
-            display: block;
-            margin: 20px auto;
-            padding: 12px;
-            width: 95%;
-            max-width: 400px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            max-width: 900px;
-            margin: auto;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            border-radius: 8px;
-            overflow: hidden;
-        }
-        th, td {
-            border: 1px solid #eee;
-            padding: 12px;
-            text-align: center;
-        }
-        th {
-            background: #333;
-            color: white;
-            text-transform: uppercase;
-            font-size: 13px;
-        }
-        .link-container {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-        }
-        .store-logo {
-            width: 30px;
-            height: 30px;
-            cursor: pointer;
-            transition: transform 0.2s;
-            display: inline-block;
-        }
-        .store-logo:hover {
-            transform: scale(1.2);
-        }
-        footer {
-            text-align: center;
-            padding: 30px 0;
-            color: #888;
-            font-size: 12px;
-        }
+        body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 20px; }
+        h1 { text-align: center; color: #333; margin-bottom: 5px; }
+        #updateTime { text-align: center; margin-bottom: 15px; color: gray; font-size: 14px; }
+        #searchBox { display: block; margin: 20px auto; padding: 12px; width: 95%; max-width: 400px; font-size: 16px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        table { border-collapse: collapse; width: 100%; max-width: 900px; margin: auto; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; }
+        th, td { border: 1px solid #eee; padding: 12px; text-align: center; }
+        th { background: #333; color: white; text-transform: uppercase; font-size: 13px; }
+        .link-container { display: flex; justify-content: center; gap: 15px; }
+        .store-logo { width: 30px; height: 30px; cursor: pointer; transition: transform 0.2s; display: inline-block; }
+        .store-logo:hover { transform: scale(1.2); }
+        footer { text-align: center; padding: 30px 0; color: #888; font-size: 12px; }
     </style>
 </head>
 <body>
 
     <h1>Available Stock</h1>
-    <div id="updateTime">
-        Last Updated: <span id="time"></span>
-    </div>
+    <div id="updateTime">Last Updated: <span id="time"></span></div>
 
-    <input type="text" id="searchBox" placeholder="Search product name..." onkeyup="searchProduct()">
+    <input type="text" id="searchBox" placeholder="Search name or max price (e.g. 15000)..." onkeyup="searchProduct()">
 
     <table id="stockTable">
         <thead>
@@ -98,35 +36,26 @@
                 <th>Check Price</th>
             </tr>
         </thead>
-        <tbody>
-            </tbody>
+        <tbody></tbody>
     </table>
 
-    <footer>
-        2026 Aditi Sales - Mobile & Electronics
-    </footer>
+    <footer>2026 Aditi Sales - Mobile & Electronics</footer>
 
     <script>
         const DATA_URL = "https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
-
         const AMAZON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30" height="30"><rect width="100" height="100" rx="15" fill="#FF9900"/><text x="50" y="65" font-size="55" font-family="Arial Black" font-weight="900" fill="white" text-anchor="middle">a</text></svg>`;
         const FLIPKART_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="30" height="30"><rect width="100" height="100" rx="15" fill="#2874F0"/><text x="50" y="70" font-size="55" font-family="Arial Black" font-weight="900" fill="#FFE500" text-anchor="middle">F</text></svg>`;
 
         function cleanProductName(name) {
-            return name
-                .replace(/\s*\(M\/V\)|\s*\(M\)|\s*\(V\)/g, "")
-                .replace(/\//g, " ") 
-                .trim();
+            return name.replace(/\s*\(M\/V\)|\s*\(M\)|\s*\(V\)/g, "").replace(/\//g, " ").trim();
         }
 
         function getStoreLinks(productName) {
             const clean = cleanProductName(productName);
             const encoded = encodeURIComponent(clean);
-
-            const amazonLink = `<a class="store-logo" href="https://www.amazon.in/s?k=${encoded}" target="_blank" title="Check on Amazon">${AMAZON_SVG}</a>`;
-            const flipkartLink = `<a class="store-logo" href="https://www.flipkart.com/search?q=${encoded}" target="_blank" title="Check on Flipkart">${FLIPKART_SVG}</a>`;
-
-            return `<div class="link-container">${amazonLink}${flipkartLink}</div>`;
+            const amazon = `<a class="store-logo" href="https://www.amazon.in/s?k=${encoded}" target="_blank">${AMAZON_SVG}</a>`;
+            const flipkart = `<a class="store-logo" href="https://www.flipkart.com/search?q=${encoded}" target="_blank">${FLIPKART_SVG}</a>`;
+            return `<div class="link-container">${amazon}${flipkart}</div>`;
         }
 
         async function loadStocks() {
@@ -134,33 +63,31 @@
                 let response = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
                 let data = await response.json();
                 let tableBody = document.querySelector("#stockTable tbody");
-                
                 tableBody.innerHTML = "";
-
                 data.forEach(item => {
-                    let row = `
-                        <tr>
-                            <td>${item.name}</td>
-                            <td>${item.qty}</td>
-                            <td>${item.mop || "---"}</td>
-                            <td>${getStoreLinks(item.name)}</td>
-                        </tr>`;
+                    let row = `<tr><td>${item.name}</td><td>${item.qty}</td><td>${item.mop || ""}</td><td>${getStoreLinks(item.name)}</td></tr>`;
                     tableBody.innerHTML += row;
                 });
-
                 document.getElementById("time").innerText = new Date().toLocaleString();
-            } catch (err) {
-                console.error("Failed to load stock data:", err);
-            }
+            } catch (err) { console.error(err); }
         }
 
         function searchProduct() {
-            let input = document.getElementById("searchBox").value.toLowerCase();
+            let input = document.getElementById("searchBox").value.trim().toLowerCase();
             let rows = document.querySelectorAll("#stockTable tbody tr");
-            
+            let searchPrice = parseFloat(input);
+            let isNumber = !isNaN(searchPrice);
+
             rows.forEach(row => {
                 let productName = row.children[0].textContent.toLowerCase();
-                row.style.display = productName.includes(input) ? "" : "none";
+                let mopText = row.children[2].textContent.replace(/[^0-9.]/g, "");
+                let productMOP = parseFloat(mopText);
+
+                if (isNumber) {
+                    row.style.display = (productMOP > 0 && productMOP <= searchPrice) ? "" : "none";
+                } else {
+                    row.style.display = productName.includes(input) ? "" : "none";
+                }
             });
         }
 
