@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Stock List - Aditi Sales</title>
+    <meta charset="UTF-8">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
@@ -23,7 +24,10 @@
         .link-container { display: flex; justify-content: center; gap: 12px; }
         .store-logo { width: 28px; height: 28px; cursor: pointer; transition: transform 0.2s; display: inline-block; }
         .store-logo:hover { transform: scale(1.2); }
-        footer { text-align: center; padding: 30px 0; color: #888; font-size: 12px; }
+        footer { 
+            text-align: center; padding: 30px 0; color: #888; font-size: 12px; 
+            border-top: 1px solid #ddd; margin-top: 40px; 
+        }
     </style>
 </head>
 <body>
@@ -34,6 +38,94 @@
     <input type="text" id="searchBox" placeholder="Search name or max price (e.g. 15000)..." onkeyup="searchProduct()">
 
     <table id="stockTable">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Qty</th>
+                <th>MOP</th>
+                <th>Check Price</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <footer>
+        2026 Aditi Sales - Mobile & Electronics
+    </footer>
+
+    <script>
+        const DATA_URL = "https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
+        
+        const AMAZON_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="28" height="28"><rect width="100" height="100" rx="15" fill="#FF9900"/><text x="50" y="65" font-size="55" font-family="Arial Black" font-weight="900" fill="white" text-anchor="middle">a</text></svg>`;
+        const FLIPKART_SVG = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="28" height="28"><rect width="100" height="100" rx="15" fill="#2874F0"/><text x="50" y="70" font-size="55" font-family="Arial Black" font-weight="900" fill="#FFE500" text-anchor="middle">F</text></svg>`;
+
+        function cleanProductName(name) {
+            // Removes (M/V) suffixes AND replaces slashes with spaces for clean Amazon/Flipkart search
+            return name.replace(/\s*\(M\/V\)|\s*\(M\)|\s*\(V\)/g, "").replace(/\//g, " ").trim();
+        }
+
+        function getStoreLinks(productName) {
+            const clean = cleanProductName(productName);
+            const encoded = encodeURIComponent(clean);
+            const amazon = `<a class="store-logo" href="https://www.amazon.in/s?k=${encoded}" target="_blank" title="Search on Amazon">${AMAZON_SVG}</a>`;
+            const flipkart = `<a class="store-logo" href="https://www.flipkart.com/search?q=${encoded}" target="_blank" title="Search on Flipkart">${FLIPKART_SVG}</a>`;
+            return `<div class="link-container">${amazon}${flipkart}</div>`;
+        }
+
+        async function loadStocks() {
+            try {
+                let response = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+                let data = await response.json();
+                let tableBody = document.querySelector("#stockTable tbody");
+                tableBody.innerHTML = "";
+                data.forEach(item => {
+                    // Ensure mop is treated as string for replacement check
+                    let row = `<tr><td>${item.name}</td><td>${item.qty}</td><td>${item.mop || "0"}</td><td>${getStoreLinks(item.name)}</td></tr>`;
+                    tableBody.innerHTML += row;
+                });
+                document.getElementById("time").innerText = new Date().toLocaleString();
+            } catch (err) { console.error("Error loading stock:", err); }
+        }
+
+        function searchProduct() {
+            let input = document.getElementById("searchBox").value.trim().toLowerCase();
+            let tableBody = document.querySelector("#stockTable tbody");
+            let rows = Array.from(tableBody.querySelectorAll("tr"));
+            let searchPrice = parseFloat(input);
+            let isNumber = !isNaN(searchPrice);
+
+            if (isNumber) {
+                // Price Search Logic: Show prices <= input and sort Max to Min
+                let filtered = rows.filter(row => {
+                    let price = parseFloat(row.children[2].textContent.replace(/[^0-9.]/g, "")) || 0;
+                    return price > 0 && price <= searchPrice;
+                }).sort((a, b) => {
+                    let priceA = parseFloat(a.children[2].textContent.replace(/[^0-9.]/g, "")) || 0;
+                    let priceB = parseFloat(b.children[2].textContent.replace(/[^0-9.]/g, "")) || 0;
+                    return priceB - priceA; 
+                });
+
+                rows.forEach(r => r.style.display = "none");
+                filtered.forEach(r => {
+                    r.style.display = "";
+                    tableBody.appendChild(r); 
+                });
+            } else {
+                // Regular Text Search Logic
+                rows.forEach(row => {
+                    let name = row.children[0].textContent.toLowerCase();
+                    row.style.display = name.includes(input) ? "" : "none";
+                });
+            }
+        }
+
+        // Initial trigger
+        loadStocks();
+        // Keep fresh every 5 mins
+        setInterval(loadStocks, 300000);
+    </script>
+</body>
+</html>
         <thead>
             <tr>
                 <th>Product Name</th>
