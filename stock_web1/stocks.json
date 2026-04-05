@@ -80,7 +80,7 @@
     "mop": 8999
   },
   {
-    "name": "MOTO G35 4/128 (M)",
+    "name": "MOTO G35 4/128 (V)",
     "qty": 1,
     "mop": 12499
   },
@@ -95,7 +95,7 @@
     "mop": 18999
   },
   {
-    "name": "NARZO 90X 4/128 (M)",
+    "name": "NARZO 90X 4/128 (V)",
     "qty": 2,
     "mop": 13999
   },
@@ -222,12 +222,12 @@
   {
     "name": "REALME P4X 6/128 (V)",
     "qty": 1,
-    "mop": 16499
+    "mop": 17499
   },
   {
     "name": "REALME P4X 8/128 (V)",
     "qty": 2,
-    "mop": 17499
+    "mop": 18499
   },
   {
     "name": "REDMI 15 5G 6/128 (M)",
