@@ -1,7 +1,7 @@
 [
   {
     "name": "CMF POWER 65W ADP (M)",
-    "qty": 3,
+    "qty": 2,
     "mop": 2499
   },
   {
@@ -38,6 +38,16 @@
     "name": "IQOO Z10X 6/128 (V)",
     "qty": 1,
     "mop": 16999
+  },
+  {
+    "name": "JIO BHARAT A1 (V)",
+    "qty": 1,
+    "mop": 1399
+  },
+  {
+    "name": "JIO BHARAT V4 (V)",
+    "qty": 11,
+    "mop": 799
   },
   {
     "name": "LAVA PLAY MAX 5G 6/128 (V)",
@@ -193,11 +203,6 @@
     "name": "REALME 16 5G 8/256 (M)",
     "qty": 1,
     "mop": 33999
-  },
-  {
-    "name": "REALME BUDS WIRELESS 3 NEO (V)",
-    "qty": 4,
-    "mop": 1299
   },
   {
     "name": "REALME C85 4/128 (M)",
@@ -451,7 +456,7 @@
   },
   {
     "name": "XIAOMI POWER BANK 4I 20000 33W (M)",
-    "qty": 2,
+    "qty": 3,
     "mop": 2299
   }
 ]
