@@ -520,9 +520,19 @@
     "mop": 449
   },
   {
+    "name": "XIAOMI 33W CHARGER 3.0 COMBO (M)",
+    "qty": 2,
+    "mop": 999
+  },
+  {
     "name": "XIAOMI 4K TV X 43\" (M)",
     "qty": 1,
     "mop": 25999
+  },
+  {
+    "name": "XIAOMI POWER BANK 4I 10000 22.5W (M)",
+    "qty": 1,
+    "mop": 1299
   },
   {
     "name": "XIAOMI POWER BANK 4I 20000 33W (M)",
@@ -533,6 +543,11 @@
     "name": "XIAOMI QC TYP C CABLE 22.5W (V)",
     "qty": 2,
     "mop": 199
+  },
+  {
+    "name": "XIAOMI QC TYP C CABLE 33W (M)",
+    "qty": 6,
+    "mop": 299
   },
   {
     "name": "XIAOMI SONIC CHARGE TC (V)",
