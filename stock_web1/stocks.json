@@ -56,8 +56,13 @@
   },
   {
     "name": "ITEL 2165C (V)",
-    "qty": 2,
-    "mop": 1299
+    "qty": 5,
+    "mop": 1349
+  },
+  {
+    "name": "ITEL ACE3 (V)",
+    "qty": 3,
+    "mop": 1199
   },
   {
     "name": "JIO BHARAT A1 (V)",
