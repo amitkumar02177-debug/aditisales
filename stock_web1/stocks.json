@@ -116,7 +116,7 @@
   },
   {
     "name": "MOTO A300 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 1649
   },
   {
@@ -248,6 +248,11 @@
     "name": "REALME BUDS 5 LITE NB (V)",
     "qty": 8,
     "mop": 1299
+  },
+  {
+    "name": "REALME C83 5G 4/128 (M)",
+    "qty": 2,
+    "mop": 17499
   },
   {
     "name": "REALME C85 4/128 (M)",
@@ -398,11 +403,6 @@
     "name": "REFUR. SAMSUNG F21 FE 8/256 (V)",
     "qty": 1,
     "mop": 10499
-  },
-  {
-    "name": "REFUR. VIVO Y19 4/128 (V)",
-    "qty": 1,
-    "mop": ""
   },
   {
     "name": "SAM F16 5G 4/128 (M)",
