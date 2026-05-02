@@ -202,12 +202,12 @@
   {
     "name": "POCO C85 6/128 (V)",
     "qty": 1,
-    "mop": 14999
+    "mop": 15499
   },
   {
     "name": "POCO M7 PLUS 6/128 (V)",
     "qty": 2,
-    "mop": 15999
+    "mop": 16999
   },
   {
     "name": "POCO M8 8/128 (V)",
@@ -222,12 +222,12 @@
   {
     "name": "REALME 15X 6/128 (V)",
     "qty": 1,
-    "mop": 21999
+    "mop": 23999
   },
   {
     "name": "REALME 15X 8/128 (M)",
     "qty": 1,
-    "mop": 23999
+    "mop": 25999
   },
   {
     "name": "REALME 16 5G 8/256 (M)",
@@ -247,7 +247,7 @@
   {
     "name": "REALME C85 4/128 (M)",
     "qty": 1,
-    "mop": 18999
+    "mop": 20999
   },
   {
     "name": "REALME P3 LITE 4/128 (V)",
@@ -428,11 +428,6 @@
     "name": "SAMSUNG ADPTER 25W (M)",
     "qty": 4,
     "mop": 1299
-  },
-  {
-    "name": "SAMSUNG F06 4/128 (M)",
-    "qty": 1,
-    "mop": 12499
   },
   {
     "name": "SAMSUNG F06 4/64 (M)",
