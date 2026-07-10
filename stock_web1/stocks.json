@@ -60,9 +60,24 @@
     "mop": 1349
   },
   {
+    "name": "ITEL ACE2L (V)",
+    "qty": 3,
+    "mop": 1200
+  },
+  {
     "name": "ITEL ACE3 (V)",
     "qty": 1,
     "mop": 1199
+  },
+  {
+    "name": "ITEL IT5027 SLIM (V)",
+    "qty": 1,
+    "mop": 1500
+  },
+  {
+    "name": "ITEL POWER 451 (V)",
+    "qty": 1,
+    "mop": 1750
   },
   {
     "name": "JIO BHARAT V4 (V)",
