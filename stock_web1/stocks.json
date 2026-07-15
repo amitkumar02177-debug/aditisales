@@ -300,17 +300,17 @@
     "mop": 22499
   },
   {
-    "name": "REDMI 15A 4/64 (M)",
-    "qty": 2,
-    "mop": 14999
-  },
-  {
     "name": "REDMI 15A 5G 4/128 (M)",
     "qty": 4,
     "mop": 15999
   },
   {
-    "name": "REDMI 15A 6/128 (M)",
+    "name": "REDMI 15A 5G 4/64 (M)",
+    "qty": 16,
+    "mop": 14999
+  },
+  {
+    "name": "REDMI 15A 5G 6/128 (M)",
     "qty": 1,
     "mop": 17999
   },
