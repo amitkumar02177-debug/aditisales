@@ -180,16 +180,6 @@
     "mop": 24999
   },
   {
-    "name": "OPPO 16C 8/128 (M)",
-    "qty": 1,
-    "mop": 46999
-  },
-  {
-    "name": "OPPO 16C 8/256 (M)",
-    "qty": 1,
-    "mop": 49999
-  },
-  {
     "name": "OPPO A6 6/128 (M)",
     "qty": 1,
     "mop": 25999
@@ -218,6 +208,11 @@
     "name": "OPPO K14X 6/128 (V)",
     "qty": 1,
     "mop": 19999
+  },
+  {
+    "name": "OPPO RENO 16C 8/128 (M)",
+    "qty": 1,
+    "mop": 46999
   },
   {
     "name": "POCO BUDS X1 (V)",
