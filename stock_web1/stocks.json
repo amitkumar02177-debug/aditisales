@@ -45,14 +45,9 @@
     "mop": 22999
   },
   {
-    "name": "IQOO Z11X 6/128 (V)",
+    "name": "IQOO Z10 8/128 (V)",
     "qty": 1,
     "mop": 24999
-  },
-  {
-    "name": "IQOO Z11X 8/128 (V)",
-    "qty": 1,
-    "mop": 27999
   },
   {
     "name": "ITEL 2165C (V)",
@@ -81,7 +76,7 @@
   },
   {
     "name": "JIO BHARAT V4 (V)",
-    "qty": 2,
+    "qty": 3,
     "mop": 850
   },
   {
@@ -98,6 +93,11 @@
     "name": "LAVA A1 KING (V)",
     "qty": 1,
     "mop": 1300
+  },
+  {
+    "name": "LAVA A2 SMART (V)",
+    "qty": 1,
+    "mop": 1450
   },
   {
     "name": "LAVA ACTION 4G (V)",
@@ -135,11 +135,6 @@
     "mop": 29999
   },
   {
-    "name": "MOTO G37 4/64 (V)",
-    "qty": 1,
-    "mop": 14999
-  },
-  {
     "name": "MOTO G57 POWER 8/128 (V)",
     "qty": 2,
     "mop": 21999
@@ -160,11 +155,6 @@
     "mop": 27999
   },
   {
-    "name": "NOTHING 3A LITE 8/256 (M)",
-    "qty": 1,
-    "mop": 29999
-  },
-  {
     "name": "NOTHING 4A 8/256 (V)",
     "qty": 1,
     "mop": 40990
@@ -175,11 +165,6 @@
     "mop": 1599
   },
   {
-    "name": "ONEPLUS NORD N6 6/128 (V)",
-    "qty": 1,
-    "mop": 24999
-  },
-  {
     "name": "OPPO A6 6/128 (M)",
     "qty": 1,
     "mop": 25999
@@ -188,6 +173,11 @@
     "name": "OPPO A6X 6/128 (M)",
     "qty": 1,
     "mop": 20999
+  },
+  {
+    "name": "OPPO F31 PRO 8/128 (M)",
+    "qty": 1,
+    "mop": 27999
   },
   {
     "name": "OPPO K14 6/128 (V)",
@@ -203,11 +193,6 @@
     "name": "OPPO K14X 6/128 (V)",
     "qty": 1,
     "mop": 19999
-  },
-  {
-    "name": "OPPO RENO 16C 8/128 (M)",
-    "qty": 1,
-    "mop": 46999
   },
   {
     "name": "POCO BUDS X1 (V)",
@@ -235,6 +220,11 @@
     "mop": 23999
   },
   {
+    "name": "REALME 16 5G 8/256 (M)",
+    "qty": 1,
+    "mop": 37999
+  },
+  {
     "name": "REALME BUDS 5 LITE NB (V)",
     "qty": 7,
     "mop": 1299
@@ -250,11 +240,6 @@
     "mop": 21999
   },
   {
-    "name": "REALME P3 ULTRA 12/256 (V)",
-    "qty": 2,
-    "mop": 30999
-  },
-  {
     "name": "REALME P4 LITE 4/128 (V)",
     "qty": 2,
     "mop": 17499
@@ -262,12 +247,22 @@
   {
     "name": "REALME P4 POWER 8/128 (V)",
     "qty": 1,
-    "mop": 27999
+    "mop": 25999
+  },
+  {
+    "name": "REALME P4 POWER 8/256 (V)",
+    "qty": 1,
+    "mop": 29999
   },
   {
     "name": "REALME P4R 4/128 (V)",
     "qty": 1,
     "mop": 18999
+  },
+  {
+    "name": "REALME P4R 6/128 (V)",
+    "qty": 1,
+    "mop": 20999
   },
   {
     "name": "REALME P4R 6/256 (V)",
@@ -281,8 +276,13 @@
   },
   {
     "name": "REDMI 15 5G 8/128 (M)",
-    "qty": 2,
+    "qty": 3,
     "mop": 22499
+  },
+  {
+    "name": "REDMI 15A 4/64 (M)",
+    "qty": 2,
+    "mop": 14999
   },
   {
     "name": "REDMI 15A 5G 4/128 (M)",
@@ -290,14 +290,14 @@
     "mop": 15999
   },
   {
-    "name": "REDMI 15A 5G 4/64 (M)",
-    "qty": 17,
-    "mop": 14999
-  },
-  {
-    "name": "REDMI 15A 5G 6/128 (M)",
+    "name": "REDMI 15A 6/128 (M)",
     "qty": 1,
     "mop": 17999
+  },
+  {
+    "name": "REDMI 15C 5G  4/128 (M)",
+    "qty": 2,
+    "mop": 16999
   },
   {
     "name": "REDMI 15C 5G  6/128 (M)",
@@ -321,28 +321,18 @@
   },
   {
     "name": "REDMI FX PRO SMART TV 55' (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 36999
   },
   {
     "name": "REDMI NOTE 15 5G 8/128 (M)",
-    "qty": 2,
+    "qty": 3,
     "mop": 26999
-  },
-  {
-    "name": "REDMI NOTE 15 5G 8/256 (M)",
-    "qty": 1,
-    "mop": 29999
   },
   {
     "name": "REDMI NOTE 15 PRO 5G 8/256 (M)",
     "qty": 1,
     "mop": 34999
-  },
-  {
-    "name": "REDMI NOTE 15 PRO+ 5G 8/256 (M)",
-    "qty": 1,
-    "mop": 39999
   },
   {
     "name": "REDMI PAD 2 WIFI+SIM 6/128 (M)",
@@ -351,13 +341,8 @@
   },
   {
     "name": "REDMI SMART FIRE TV 32 (V)",
-    "qty": 3,
-    "mop": 13499
-  },
-  {
-    "name": "REDMI WATCH MOVE (M)",
     "qty": 1,
-    "mop": 2499
+    "mop": 18500
   },
   {
     "name": "REFUR. ASUS Z6 6/64 (V)",
@@ -472,12 +457,12 @@
   {
     "name": "VIVO T5 PRO 8/128 (V)",
     "qty": 1,
-    "mop": 35999
+    "mop": 32999
   },
   {
     "name": "VIVO T5X 6/128 (V)",
     "qty": 4,
-    "mop": 24999
+    "mop": 22999
   },
   {
     "name": "VIVO Y11 5G 4/128 (M)",
@@ -510,9 +495,9 @@
     "mop": 1299
   },
   {
-    "name": "XIAOMI 4K TV X 43\" (M/V)",
-    "qty": 3,
-    "mop": 26999
+    "name": "XIAOMI 4K TV X 43\" (M)",
+    "qty": 1,
+    "mop": 25999
   },
   {
     "name": "XIAOMI POWER BANK 4I 10000 22.5W (M)",
