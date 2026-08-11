@@ -5,11 +5,6 @@
     "mop": 13999
   },
   {
-    "name": "BENCO E11 (V)",
-    "qty": 1,
-    "mop": 1199
-  },
-  {
     "name": "BENCO P32 (V)",
     "qty": 2,
     "mop": 1599
@@ -40,14 +35,24 @@
     "mop": 16999
   },
   {
-    "name": "INFINIX GT 30 8/128 (V)",
+    "name": "IQOO Z11 LITE 4/128 (V)",
     "qty": 1,
-    "mop": 22999
+    "mop": 19999
   },
   {
-    "name": "IQOO Z10 8/128 (V)",
+    "name": "IQOO Z11 LITE 6/128 (V)",
+    "qty": 2,
+    "mop": 21999
+  },
+  {
+    "name": "IQOO Z11X 6/128 (V)",
     "qty": 1,
     "mop": 24999
+  },
+  {
+    "name": "IQOO Z11X 8/128 (V)",
+    "qty": 1,
+    "mop": 27999
   },
   {
     "name": "ITEL 2165C (V)",
@@ -76,7 +81,7 @@
   },
   {
     "name": "JIO BHARAT V4 (V)",
-    "qty": 2,
+    "qty": 9,
     "mop": 850
   },
   {
@@ -95,23 +100,13 @@
     "mop": 1300
   },
   {
-    "name": "LAVA A2 SMART (V)",
-    "qty": 1,
-    "mop": 1450
-  },
-  {
-    "name": "LAVA ACTION 4G (V)",
-    "qty": 1,
-    "mop": 1799
-  },
-  {
     "name": "LAVA HERO SHAKTI (V)",
     "qty": 2,
     "mop": 1199
   },
   {
     "name": "LAVA SHARK 2 5G 4/64 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 12999
   },
   {
@@ -121,7 +116,7 @@
   },
   {
     "name": "MOTO A10E (V)",
-    "qty": 7,
+    "qty": 4,
     "mop": 1549
   },
   {
@@ -130,9 +125,19 @@
     "mop": 1649
   },
   {
-    "name": "MOTO EDGE 70 FUSION 8/128 (V)",
+    "name": "MOTO G37 4/64 (V)",
+    "qty": 3,
+    "mop": 14999
+  },
+  {
+    "name": "MOTO G37 POWER 4/128 (V)",
     "qty": 1,
-    "mop": 29999
+    "mop": 15999
+  },
+  {
+    "name": "MOTO G37 POWER 4/64 (V)",
+    "qty": 1,
+    "mop": 14999
   },
   {
     "name": "MOTO G57 POWER 8/128 (V)",
@@ -155,9 +160,24 @@
     "mop": 27999
   },
   {
+    "name": "NOTHING 3A LITE 8/256 (M)",
+    "qty": 1,
+    "mop": 29999
+  },
+  {
     "name": "NOTHING 4A 8/256 (V)",
     "qty": 1,
     "mop": 40990
+  },
+  {
+    "name": "NOTHING 4B 8/128 (M)",
+    "qty": 1,
+    "mop": 34999
+  },
+  {
+    "name": "NOTHING 4B 8/256 (M)",
+    "qty": 1,
+    "mop": 38999
   },
   {
     "name": "ONEPLUS BULLETS Z3 NB (V)",
@@ -165,19 +185,29 @@
     "mop": 1599
   },
   {
+    "name": "ONEPLUS NORD N6 6/128 (V)",
+    "qty": 1,
+    "mop": 24999
+  },
+  {
     "name": "OPPO A6 6/128 (M)",
     "qty": 1,
     "mop": 25999
   },
   {
+    "name": "OPPO A6X 4/128 (M)",
+    "qty": 1,
+    "mop": 19999
+  },
+  {
+    "name": "OPPO A6X 4/64 (M)",
+    "qty": 1,
+    "mop": 17999
+  },
+  {
     "name": "OPPO A6X 6/128 (M)",
     "qty": 1,
     "mop": 20999
-  },
-  {
-    "name": "OPPO F31 PRO 8/128 (M)",
-    "qty": 1,
-    "mop": 27999
   },
   {
     "name": "OPPO K14 6/128 (V)",
@@ -190,9 +220,19 @@
     "mop": 21999
   },
   {
+    "name": "OPPO K14X 4/64 (M)",
+    "qty": 1,
+    "mop": 16999
+  },
+  {
     "name": "OPPO K14X 6/128 (V)",
     "qty": 1,
     "mop": 19999
+  },
+  {
+    "name": "OPPO RENO 16C 8/128 (M)",
+    "qty": 1,
+    "mop": 46999
   },
   {
     "name": "POCO BUDS X1 (V)",
@@ -201,28 +241,18 @@
   },
   {
     "name": "POCO C85X 5G 4/128 (V)",
-    "qty": 2,
-    "mop": 13999
-  },
-  {
-    "name": "POCO M8 8/128 (V)",
     "qty": 1,
-    "mop": 19999
+    "mop": 13999
   },
   {
     "name": "POCO M8 8/256 (V)",
     "qty": 1,
-    "mop": 21999
+    "mop": 28999
   },
   {
     "name": "REALME 15X 6/128 (V)",
     "qty": 1,
     "mop": 23999
-  },
-  {
-    "name": "REALME 16 5G 8/256 (M)",
-    "qty": 1,
-    "mop": 37999
   },
   {
     "name": "REALME BUDS 5 LITE NB (V)",
@@ -231,8 +261,13 @@
   },
   {
     "name": "REALME C83 5G 4/128 (M)",
+    "qty": 2,
+    "mop": 19499
+  },
+  {
+    "name": "REALME C83 5G 6/128 (M)",
     "qty": 1,
-    "mop": 17499
+    "mop": 22499
   },
   {
     "name": "REALME C85 4/128 (M)",
@@ -240,19 +275,19 @@
     "mop": 21999
   },
   {
-    "name": "REALME P4 LITE 4/128 (V)",
+    "name": "REALME P3 ULTRA 12/256 (V)",
     "qty": 2,
+    "mop": 30999
+  },
+  {
+    "name": "REALME P4 LITE 4/128 (V)",
+    "qty": 1,
     "mop": 17499
   },
   {
     "name": "REALME P4 POWER 8/128 (V)",
     "qty": 1,
-    "mop": 25999
-  },
-  {
-    "name": "REALME P4 POWER 8/256 (V)",
-    "qty": 1,
-    "mop": 29999
+    "mop": 27999
   },
   {
     "name": "REALME P4R 4/128 (V)",
@@ -260,29 +295,9 @@
     "mop": 18999
   },
   {
-    "name": "REALME P4R 6/128 (V)",
-    "qty": 1,
-    "mop": 20999
-  },
-  {
-    "name": "REALME P4R 6/256 (V)",
-    "qty": 1,
-    "mop": 22999
-  },
-  {
-    "name": "REALME P4X 8/128 (V)",
-    "qty": 1,
-    "mop": 23999
-  },
-  {
     "name": "REDMI 15 5G 8/128 (M)",
-    "qty": 3,
+    "qty": 2,
     "mop": 22499
-  },
-  {
-    "name": "REDMI 15A 4/64 (V)",
-    "qty": 1,
-    "mop": 14999
   },
   {
     "name": "REDMI 15A 5G 4/128 (M)",
@@ -290,14 +305,19 @@
     "mop": 15999
   },
   {
-    "name": "REDMI 15A 6/128 (M)",
+    "name": "REDMI 15A 5G 4/64 (M)",
+    "qty": 5,
+    "mop": 15999
+  },
+  {
+    "name": "REDMI 15A 5G 6/128 (M)",
     "qty": 1,
     "mop": 17999
   },
   {
     "name": "REDMI 15C 5G  4/128 (M)",
     "qty": 2,
-    "mop": 16999
+    "mop": 18499
   },
   {
     "name": "REDMI 15C 5G  6/128 (M)",
@@ -311,8 +331,8 @@
   },
   {
     "name": "REDMI A7 3/64 (M)",
-    "qty": 2,
-    "mop": 11499
+    "qty": 5,
+    "mop": 12499
   },
   {
     "name": "REDMI A7 PRO 4/64 (M)",
@@ -321,13 +341,13 @@
   },
   {
     "name": "REDMI FX PRO SMART TV 55' (V)",
-    "qty": 1,
+    "qty": 2,
     "mop": 36999
   },
   {
-    "name": "REDMI NOTE 15 5G 8/128 (M)",
-    "qty": 3,
-    "mop": 26999
+    "name": "REDMI NOTE 15 5G 8/256 (M)",
+    "qty": 1,
+    "mop": 29999
   },
   {
     "name": "REDMI NOTE 15 PRO 5G 8/256 (M)",
@@ -341,8 +361,18 @@
   },
   {
     "name": "REDMI SMART FIRE TV 32 (V)",
+    "qty": 3,
+    "mop": 13499
+  },
+  {
+    "name": "REDMI SMART TV A 32 (M)",
     "qty": 1,
-    "mop": 18500
+    "mop": 14999
+  },
+  {
+    "name": "REDMI WATCH MOVE (M)",
+    "qty": 1,
+    "mop": 2499
   },
   {
     "name": "REFUR. ASUS Z6 6/64 (V)",
@@ -455,14 +485,19 @@
     "mop": 14999
   },
   {
-    "name": "VIVO T5 PRO 8/128 (V)",
-    "qty": 1,
-    "mop": 32999
+    "name": "VIVO T5 LITE 4/128 (V)",
+    "qty": 3,
+    "mop": 19999
   },
   {
-    "name": "VIVO T5X 6/128 (V)",
-    "qty": 4,
-    "mop": 22999
+    "name": "VIVO T5 LITE 6/128 (V)",
+    "qty": 2,
+    "mop": 21999
+  },
+  {
+    "name": "VIVO T5 PRO 8/128 (V)",
+    "qty": 1,
+    "mop": 35999
   },
   {
     "name": "VIVO Y11 5G 4/128 (M)",
@@ -481,7 +516,7 @@
   },
   {
     "name": "XIAOMI 33W CHARGER 3.0 COMBO (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 999
   },
   {
@@ -495,9 +530,9 @@
     "mop": 1299
   },
   {
-    "name": "XIAOMI 4K TV X 43\" (M)",
-    "qty": 1,
-    "mop": 25999
+    "name": "XIAOMI 4K TV X 43\" (M/V)",
+    "qty": 3,
+    "mop": 26999
   },
   {
     "name": "XIAOMI POWER BANK 4I 10000 22.5W (M)",
@@ -505,9 +540,9 @@
     "mop": 1299
   },
   {
-    "name": "XIAOMI POWER BANK 4I 20000 33W (M)",
-    "qty": 2,
-    "mop": 2299
+    "name": "XIAOMI POWER BANK 4I 20000 33W (M/V)",
+    "qty": 6,
+    "mop": 2499
   },
   {
     "name": "XIAOMI QC TYP C CABLE 22.5W (V)",
