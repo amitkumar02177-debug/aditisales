@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "aditisales",
+  "compatibility_date": "2026-07-28",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "stock_web1"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
