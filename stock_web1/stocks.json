@@ -30,8 +30,13 @@
     "mop": 2699
   },
   {
-    "name": "CMF POWER 65W ADP (M)",
+    "name": "CMF POWER 33W ADP (M)",
     "qty": 2,
+    "mop": 1499
+  },
+  {
+    "name": "CMF POWER 65W ADP (M)",
+    "qty": 4,
     "mop": 2499
   },
   {
@@ -48,6 +53,16 @@
     "name": "HMD VIBE 2 5G 6/128 (V)",
     "qty": 1,
     "mop": 16999
+  },
+  {
+    "name": "IQOO Z11 6/128 (V)",
+    "qty": 1,
+    "mop": 34999
+  },
+  {
+    "name": "IQOO Z11 8/128 (V)",
+    "qty": 1,
+    "mop": 39999
   },
   {
     "name": "IQOO Z11 LITE 4/128 (V)",
@@ -98,11 +113,6 @@
     "name": "JIO BHARAT V4 (V)",
     "qty": 5,
     "mop": 850
-  },
-  {
-    "name": "LAVA A1 2025 (V)",
-    "qty": 1,
-    "mop": 1199
   },
   {
     "name": "LAVA A1 JOSH (V)",
@@ -170,18 +180,23 @@
     "mop": 29999
   },
   {
-    "name": "NOTHING 4A 8/256 (V)",
+    "name": "NOTHING 4A 8/128 (M)",
     "qty": 1,
-    "mop": 40990
+    "mop": 42999
+  },
+  {
+    "name": "NOTHING 4A 8/256 (M)",
+    "qty": 1,
+    "mop": 46999
   },
   {
     "name": "NOTHING 4B 8/128 (M)",
-    "qty": 1,
+    "qty": 2,
     "mop": 34999
   },
   {
     "name": "NOTHING 4B 8/256 (M)",
-    "qty": 1,
+    "qty": 2,
     "mop": 38999
   },
   {
@@ -211,12 +226,12 @@
   },
   {
     "name": "OPPO K14 6/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 19999
   },
   {
     "name": "OPPO K14 6/256 (V)",
-    "qty": 4,
+    "qty": 3,
     "mop": 21999
   },
   {
@@ -243,6 +258,21 @@
     "name": "POCO M8 8/256 (V)",
     "qty": 1,
     "mop": 28999
+  },
+  {
+    "name": "POCO M8 POWER 6/128 (V)",
+    "qty": 2,
+    "mop": 24999
+  },
+  {
+    "name": "POCO M8 POWER 8/128 (V)",
+    "qty": 2,
+    "mop": 27999
+  },
+  {
+    "name": "POCO M8X 6/128 (V)",
+    "qty": 4,
+    "mop": 22999
   },
   {
     "name": "REALME 15X 6/128 (V)",
@@ -326,13 +356,23 @@
   },
   {
     "name": "REDMI A7 3/64 (M)",
-    "qty": 5,
+    "qty": 4,
     "mop": 12499
   },
   {
     "name": "REDMI A7 PRO 4/64 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 12499
+  },
+  {
+    "name": "REDMI A7 PRO 5G 4/128 (V)",
+    "qty": 2,
+    "mop": 16499
+  },
+  {
+    "name": "REDMI A7 PRO 5G 4/64 (V)",
+    "qty": 4,
+    "mop": 15499
   },
   {
     "name": "REDMI FX PRO SMART TV 55' (V)",
@@ -350,9 +390,14 @@
     "mop": 34999
   },
   {
-    "name": "REDMI NOTE 17 6/128 (M)",
+    "name": "REDMI NOTE 17 6/128 DEMO (M)",
     "qty": 1,
     "mop": 27999
+  },
+  {
+    "name": "REDMI NOTE 17 8/128 (M)",
+    "qty": 1,
+    "mop": 30999
   },
   {
     "name": "REDMI PAD 2 WIFI+SIM 6/128 (M)",
@@ -490,13 +535,8 @@
     "mop": 21999
   },
   {
-    "name": "VIVO T5 PRO 8/128 (V)",
-    "qty": 1,
-    "mop": 35999
-  },
-  {
     "name": "VIVO T5X 6/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 24999
   },
   {
@@ -516,8 +556,8 @@
   },
   {
     "name": "XIAOMI 33W CHARGER 3.0 COMBO (M)",
-    "qty": 1,
-    "mop": 999
+    "qty": 3,
+    "mop": 299
   },
   {
     "name": "XIAOMI 45W MINI GAN PD USB-C (M)",
@@ -545,9 +585,9 @@
     "mop": 2499
   },
   {
-    "name": "XIAOMI QC TYP C CABLE 22.5W (V)",
-    "qty": 2,
-    "mop": 199
+    "name": "XIAOMI QC TYP C CABLE 22.5W (M/V)",
+    "qty": 6,
+    "mop": 299
   },
   {
     "name": "XIAOMI QC TYP C CABLE 33W (M/V)",
