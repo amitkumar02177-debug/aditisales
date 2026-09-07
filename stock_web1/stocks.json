@@ -275,6 +275,11 @@
     "mop": 22999
   },
   {
+    "name": "REALFIT DOPE Z (V)",
+    "qty": 1,
+    "mop": 650
+  },
+  {
     "name": "REALME 15X 6/128 (V)",
     "qty": 1,
     "mop": 23999
@@ -343,11 +348,6 @@
     "name": "REDMI 15C 5G  4/128 (M)",
     "qty": 1,
     "mop": 18499
-  },
-  {
-    "name": "REDMI 15C 5G  6/128 (M)",
-    "qty": 1,
-    "mop": 18999
   },
   {
     "name": "REDMI 5C BUDS (M)",
