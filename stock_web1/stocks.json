@@ -206,8 +206,23 @@
   },
   {
     "name": "OPPO A6 6/128 (M)",
+    "qty": 2,
+    "mop": 28999
+  },
+  {
+    "name": "OPPO A6 PRO 8/128 (M)",
     "qty": 1,
-    "mop": 25999
+    "mop": 32999
+  },
+  {
+    "name": "OPPO A6X 4/128 (M)",
+    "qty": 1,
+    "mop": 21999
+  },
+  {
+    "name": "OPPO A6X 4/64 (M)",
+    "qty": 1,
+    "mop": 18999
   },
   {
     "name": "OPPO A6X 6/128 (M)",
@@ -220,9 +235,14 @@
     "mop": 21999
   },
   {
-    "name": "OPPO K14X 6/128 (V)",
+    "name": "OPPO K14X 4/64 (M)",
     "qty": 1,
-    "mop": 19999
+    "mop": 18999
+  },
+  {
+    "name": "OPPO K14X 6/128 (M/V)",
+    "qty": 2,
+    "mop": 24999
   },
   {
     "name": "OPPO RENO 16C 8/128 (M)",
