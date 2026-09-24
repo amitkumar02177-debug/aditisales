@@ -5,21 +5,6 @@
     "mop": 13999
   },
   {
-    "name": "AI+ NOVA 2 NEO 6/128 (V)",
-    "qty": 1,
-    "mop": 15999
-  },
-  {
-    "name": "AI+ NOVA 2 PRO 6/128 (V)",
-    "qty": 1,
-    "mop": 15999
-  },
-  {
-    "name": "AI+ NOVA 2 PRO 8/128 (V)",
-    "qty": 1,
-    "mop": 16999
-  },
-  {
     "name": "BENCO P32 (V)",
     "qty": 2,
     "mop": 1599
@@ -45,11 +30,6 @@
     "mop": 999
   },
   {
-    "name": "HMD VIBE 2 5G 4/128 (V)",
-    "qty": 1,
-    "mop": 17999
-  },
-  {
     "name": "HMD VIBE 2 5G 6/128 (V)",
     "qty": 1,
     "mop": 16999
@@ -63,16 +43,6 @@
     "name": "IQOO Z11 8/128 (V)",
     "qty": 1,
     "mop": 39999
-  },
-  {
-    "name": "IQOO Z11 LITE 6/128 (V)",
-    "qty": 2,
-    "mop": 21999
-  },
-  {
-    "name": "IQOO Z11X 6/128 (V)",
-    "qty": 1,
-    "mop": 24999
   },
   {
     "name": "IQOO Z11X 8/128 (V)",
@@ -106,7 +76,7 @@
   },
   {
     "name": "JIO BHARAT V4 (V)",
-    "qty": 25,
+    "qty": 5,
     "mop": 950
   },
   {
@@ -130,6 +100,11 @@
     "mop": 12999
   },
   {
+    "name": "LAVA YUVA SMART 4 3/32 (V)",
+    "qty": 1,
+    "mop": 9000
+  },
+  {
     "name": "MOTO A10E (V)",
     "qty": 2,
     "mop": 1549
@@ -141,7 +116,7 @@
   },
   {
     "name": "MOTO G37 4/64 (V)",
-    "qty": 4,
+    "qty": 3,
     "mop": 14999
   },
   {
@@ -151,13 +126,8 @@
   },
   {
     "name": "MOTO G37 POWER 8/128 (V)",
-    "qty": 6,
+    "qty": 4,
     "mop": 19999
-  },
-  {
-    "name": "MOTO G57 POWER 8/128 (V)",
-    "qty": 1,
-    "mop": 21999
   },
   {
     "name": "MOTO G67 POWER 8/128 (V)",
@@ -168,11 +138,6 @@
     "name": "NOKIA 105 CLASSIC SS (V)",
     "qty": 2,
     "mop": 1399
-  },
-  {
-    "name": "NOTHING 3A LITE 8/256 (M)",
-    "qty": 1,
-    "mop": 29999
   },
   {
     "name": "NOTHING 4A 8/128 (M)",
@@ -186,23 +151,18 @@
   },
   {
     "name": "NOTHING 4B 8/128 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 34999
   },
   {
     "name": "NOTHING 4B 8/256 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 38999
   },
   {
     "name": "ONEPLUS BULLETS Z3 NB (V)",
     "qty": 5,
     "mop": 1599
-  },
-  {
-    "name": "ONEPLUS NORD N6 6/128 (V)",
-    "qty": 1,
-    "mop": 24999
   },
   {
     "name": "OPPO A6 6/128 (M)",
@@ -221,7 +181,7 @@
   },
   {
     "name": "OPPO K14 6/256 (V)",
-    "qty": 3,
+    "qty": 2,
     "mop": 21999
   },
   {
@@ -250,18 +210,13 @@
     "mop": 1499
   },
   {
-    "name": "POCO M8 8/256 (V)",
-    "qty": 1,
-    "mop": 28999
-  },
-  {
     "name": "POCO M8 POWER 6/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 24999
   },
   {
     "name": "POCO M8 POWER 8/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 27999
   },
   {
@@ -270,19 +225,9 @@
     "mop": 22999
   },
   {
-    "name": "REALME 15X 6/128 (V)",
-    "qty": 1,
-    "mop": 23999
-  },
-  {
     "name": "REALME BUDS 5 LITE NB (V)",
     "qty": 6,
     "mop": 1299
-  },
-  {
-    "name": "REALME C83 5G 4/128 (M)",
-    "qty": 1,
-    "mop": 19499
   },
   {
     "name": "REALME C83 5G 6/128 (M)",
@@ -311,7 +256,7 @@
   },
   {
     "name": "REDMI 15 5G 8/128 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 22499
   },
   {
@@ -321,7 +266,7 @@
   },
   {
     "name": "REDMI 15A 5G 4/64 (M)",
-    "qty": 3,
+    "qty": 2,
     "mop": 16499
   },
   {
@@ -331,7 +276,7 @@
   },
   {
     "name": "REDMI 17 6/128 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 23999
   },
   {
@@ -346,22 +291,12 @@
   },
   {
     "name": "REDMI A7 3/64 (M)",
-    "qty": 4,
+    "qty": 3,
     "mop": 12499
-  },
-  {
-    "name": "REDMI A7 PRO 4/64 (M)",
-    "qty": 1,
-    "mop": 12499
-  },
-  {
-    "name": "REDMI A7 PRO 5G 4/128 (V)",
-    "qty": 1,
-    "mop": 16499
   },
   {
     "name": "REDMI A7 PRO 5G 4/64 (V)",
-    "qty": 3,
+    "qty": 1,
     "mop": 15499
   },
   {
@@ -383,11 +318,6 @@
     "name": "REDMI NOTE 17 6/128 DEMO (M)",
     "qty": 1,
     "mop": 27999
-  },
-  {
-    "name": "REDMI PAD 2 WIFI+SIM 6/128 (M)",
-    "qty": 1,
-    "mop": 19999
   },
   {
     "name": "REDMI SMART FIRE TV 32 (V)",
@@ -455,16 +385,6 @@
     "mop": 15499
   },
   {
-    "name": "SAMSUNG A07 5G 4/128 (M)",
-    "qty": 1,
-    "mop": 16499
-  },
-  {
-    "name": "SAMSUNG A07 5G 6/128 (M)",
-    "qty": 1,
-    "mop": 19999
-  },
-  {
     "name": "SAMSUNG ADPTER 15W (M)",
     "qty": 1,
     "mop": 799
@@ -491,7 +411,7 @@
   },
   {
     "name": "TECNO SPARK GO 3 4/64 (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 8999
   },
   {
@@ -501,7 +421,7 @@
   },
   {
     "name": "VIVO T5 LITE 4/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 19999
   },
   {
