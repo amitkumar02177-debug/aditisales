@@ -106,7 +106,7 @@
   },
   {
     "name": "JIO BHARAT V4 (V)",
-    "qty": 5,
+    "qty": 25,
     "mop": 950
   },
   {
@@ -250,11 +250,6 @@
     "mop": 1499
   },
   {
-    "name": "POCO C85X 5G 4/64 (M)",
-    "qty": 2,
-    "mop": 15499
-  },
-  {
     "name": "POCO M8 8/256 (V)",
     "qty": 1,
     "mop": 28999
@@ -270,8 +265,8 @@
     "mop": 27999
   },
   {
-    "name": "POCO M8X 6/128 (M/V)",
-    "qty": 4,
+    "name": "POCO M8X 6/128 (V)",
+    "qty": 3,
     "mop": 22999
   },
   {
