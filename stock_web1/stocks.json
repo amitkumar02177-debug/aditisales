@@ -305,9 +305,19 @@
     "mop": 29999
   },
   {
+    "name": "REDMI NOTE 17 6/128 (M)",
+    "qty": 1,
+    "mop": 27999
+  },
+  {
     "name": "REDMI NOTE 17 6/128 DEMO (M)",
     "qty": 1,
     "mop": 27999
+  },
+  {
+    "name": "REDMI NOTE 17 8/128 (M)",
+    "qty": 1,
+    "mop": 30999
   },
   {
     "name": "REDMI SMART FIRE TV 32 (V)",
@@ -365,21 +375,6 @@
     "mop": 10499
   },
   {
-    "name": "RR20H2823UZ/NL (M)",
-    "qty": 1,
-    "mop": 19999
-  },
-  {
-    "name": "RR21H2H25BB/HL (M)",
-    "qty": 1,
-    "mop": 21000
-  },
-  {
-    "name": "RR21H2H25BR/HL (M)",
-    "qty": 1,
-    "mop": 21000
-  },
-  {
     "name": "SAM F16 5G 4/128 (M)",
     "qty": 1,
     "mop": 15499
@@ -420,16 +415,6 @@
     "mop": 8999
   },
   {
-    "name": "UA32H4520FUXXL (M)",
-    "qty": 4,
-    "mop": 16999
-  },
-  {
-    "name": "UA43U8400HULXL (M)",
-    "qty": 1,
-    "mop": 34999
-  },
-  {
     "name": "VIVO T4 LITE 4/64 (V)",
     "qty": 2,
     "mop": 14999
@@ -441,31 +426,6 @@
   },
   {
     "name": "VIVO Y11 5G 4/128 (M)",
-    "qty": 1,
-    "mop": 16999
-  },
-  {
-    "name": "WT10C4260GG/TL (M)",
-    "qty": 1,
-    "mop": 16999
-  },
-  {
-    "name": "WT70C3000RR/TL (M)",
-    "qty": 3,
-    "mop": 12500
-  },
-  {
-    "name": "WT75C3200GG/TL (M)",
-    "qty": 2,
-    "mop": 13499
-  },
-  {
-    "name": "WT80C4000RR/TL (M)",
-    "qty": 2,
-    "mop": 14499
-  },
-  {
-    "name": "WT90C4260GG/TL (M)",
     "qty": 1,
     "mop": 16999
   },
