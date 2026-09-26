@@ -1,5 +1,15 @@
 [
   {
+    "name": "ACE3 HEERA (V)",
+    "qty": 4,
+    "mop": 1200
+  },
+  {
+    "name": "ACE3 SHINE (V)",
+    "qty": 2,
+    "mop": 1300
+  },
+  {
     "name": "AI+ NOVA 2 NEO 6/128 (V)",
     "qty": 1,
     "mop": 17000
@@ -28,6 +38,31 @@
     "name": "IQOO Z11X 6/128 (V)",
     "qty": 1,
     "mop": 24999
+  },
+  {
+    "name": "ITEI IT5032 (V)",
+    "qty": 1,
+    "mop": 1400
+  },
+  {
+    "name": "ITEL 2165C (V)",
+    "qty": 4,
+    "mop": 1300
+  },
+  {
+    "name": "ITEL ACE2 HERA (V)",
+    "qty": 4,
+    "mop": 1200
+  },
+  {
+    "name": "ITEL IT2181A (V)",
+    "qty": 1,
+    "mop": 1400
+  },
+  {
+    "name": "ITEL IT5262 (V)",
+    "qty": 1,
+    "mop": 1600
   },
   {
     "name": "JIO BHARAT V4 (V)",
