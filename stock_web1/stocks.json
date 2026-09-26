@@ -1,15 +1,5 @@
 [
   {
-    "name": "ACE3 HEERA (V)",
-    "qty": 4,
-    "mop": 1200
-  },
-  {
-    "name": "ACE3 SHINE (V)",
-    "qty": 2,
-    "mop": 1200
-  },
-  {
     "name": "AI+ NOVA 2 6/128 (V)",
     "qty": 1,
     "mop": 13999
@@ -60,19 +50,9 @@
     "mop": 27999
   },
   {
-    "name": "ITEI IT5032 (V)",
-    "qty": 1,
-    "mop": 1450
-  },
-  {
     "name": "ITEL 2165C (V)",
-    "qty": 5,
+    "qty": 1,
     "mop": 1400
-  },
-  {
-    "name": "ITEL ACE2 HERA (V)",
-    "qty": 4,
-    "mop": 1300
   },
   {
     "name": "ITEL ACE2L (V)",
@@ -85,19 +65,9 @@
     "mop": 1199
   },
   {
-    "name": "ITEL IT2181A (V)",
-    "qty": 1,
-    "mop": 1400
-  },
-  {
     "name": "ITEL IT5027 SLIM (V)",
     "qty": 1,
     "mop": 1500
-  },
-  {
-    "name": "ITEL IT5262 (V)",
-    "qty": 1,
-    "mop": 1650
   },
   {
     "name": "ITEL POWER 451 (V)",
@@ -111,8 +81,8 @@
   },
   {
     "name": "LAVA A1 JOSH (V)",
-    "qty": 1,
-    "mop": 1199
+    "qty": 5,
+    "mop": 1300
   },
   {
     "name": "LAVA A1 KING (V)",
@@ -120,8 +90,23 @@
     "mop": 1300
   },
   {
-    "name": "LAVA HERO SHAKTI (V)",
+    "name": "LAVA A2 SMART (V)",
     "qty": 2,
+    "mop": 1450
+  },
+  {
+    "name": "LAVA A3 KING (V)",
+    "qty": 2,
+    "mop": 1500
+  },
+  {
+    "name": "LAVA A3 TORCH (V)",
+    "qty": 2,
+    "mop": 1500
+  },
+  {
+    "name": "LAVA HERO SHAKTI (V)",
+    "qty": 7,
     "mop": 1199
   },
   {
@@ -131,7 +116,7 @@
   },
   {
     "name": "MOTO A10E (V)",
-    "qty": 2,
+    "qty": 4,
     "mop": 1549
   },
   {
