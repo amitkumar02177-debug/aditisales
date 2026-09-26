@@ -1,8 +1,73 @@
 [
   {
+    "name": "AI+ NOVA 2 NEO 6/128 (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "AI+ NOVA 2 PRO 6/128 (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "AI+ NOVA 2 PRO 8/128 (V)",
+    "qty": 1,
+    "mop": 18000
+  },
+  {
+    "name": "HMD VIBE 2 5G 4/128 (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "IQOO Z11 LITE 6/128 (V)",
+    "qty": 2,
+    "mop": 21999
+  },
+  {
+    "name": "IQOO Z11X 6/128 (V)",
+    "qty": 1,
+    "mop": 24999
+  },
+  {
     "name": "JIO BHARAT V4 (V)",
     "qty": 20,
     "mop": 950
+  },
+  {
+    "name": "MOTO G37 4/64 (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "MOTO G37 POWER 8/128 (V)",
+    "qty": 2,
+    "mop": 22000
+  },
+  {
+    "name": "MOTO G57 POWER 8/128 (V)",
+    "qty": 1,
+    "mop": 24000
+  },
+  {
+    "name": "NOTHING 3A LITE 8/256 (V)",
+    "qty": 1,
+    "mop": 32000
+  },
+  {
+    "name": "NOTHING 4B 8/128 (V)",
+    "qty": 1,
+    "mop": 35000
+  },
+  {
+    "name": "NOTHING 4B 8/256 (V)",
+    "qty": 1,
+    "mop": 40000
+  },
+  {
+    "name": "ONEPLUS NORD N6 6/128 (V)",
+    "qty": 1,
+    "mop": 24999
   },
   {
     "name": "OPPO A6 6/128 (V)",
@@ -40,9 +105,39 @@
     "mop": 15499
   },
   {
+    "name": "POCO M8 8/256 (V)",
+    "qty": 1,
+    "mop": 25000
+  },
+  {
+    "name": "POCO M8 POWER 6/128 (V)",
+    "qty": 1,
+    "mop": 29000
+  },
+  {
+    "name": "POCO M8 POWER 8/128 (V)",
+    "qty": 1,
+    "mop": 29999
+  },
+  {
     "name": "POCO M8X 6/128 (V)",
     "qty": 2,
     "mop": 23999
+  },
+  {
+    "name": "REALME 15X 6/128 (V)",
+    "qty": 1,
+    "mop": 24000
+  },
+  {
+    "name": "REALME C83 5G 4/128 (V)",
+    "qty": 1,
+    "mop": 21000
+  },
+  {
+    "name": "REDMI 15 5G 8/128 (V)",
+    "qty": 1,
+    "mop": 24999
   },
   {
     "name": "REDMI 15A 5G 4/128 (V)",
@@ -50,8 +145,63 @@
     "mop": 18499
   },
   {
+    "name": "REDMI 15A 5G 4/64 (V)",
+    "qty": 1,
+    "mop": 17500
+  },
+  {
     "name": "REDMI 15C 5G 6/128 (V)",
     "qty": 1,
     "mop": 20499
+  },
+  {
+    "name": "REDMI 17 6/128 (V)",
+    "qty": 1,
+    "mop": 24999
+  },
+  {
+    "name": "REDMI A7 3/64 (V)",
+    "qty": 1,
+    "mop": 12500
+  },
+  {
+    "name": "REDMI A7 PRO 4/64 (V)",
+    "qty": 1,
+    "mop": 11500
+  },
+  {
+    "name": "REDMI A7 PRO 5G 4/128 (V)",
+    "qty": 1,
+    "mop": 17500
+  },
+  {
+    "name": "REDMI A7 PRO 5G 4/64 (V)",
+    "qty": 2,
+    "mop": 16500
+  },
+  {
+    "name": "REDMI PAD 2 WIFI+SIM 6/128 (V)",
+    "qty": 1,
+    "mop": 21000
+  },
+  {
+    "name": "SAMSUNG A07 5G 4/128 (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "SAMSUNG A07 5G 6/128 (V)",
+    "qty": 1,
+    "mop": 19000
+  },
+  {
+    "name": "TECNO SPARK GO 3 4/64 (V)",
+    "qty": 1,
+    "mop": 10000
+  },
+  {
+    "name": "VIVO T5 LITE 4/128 (V)",
+    "qty": 1,
+    "mop": 19999
   }
 ]
