@@ -25,6 +25,46 @@
     "mop": 2499
   },
   {
+    "name": "EX BAT HBTT2250 150AH (M)",
+    "qty": 1,
+    "mop": 13500
+  },
+  {
+    "name": "EX BAT IZTT1500HL 150AH (M)",
+    "qty": 1,
+    "mop": 16000
+  },
+  {
+    "name": "EX BAT IZTT2000HL 200AH (M)",
+    "qty": 1,
+    "mop": 20000
+  },
+  {
+    "name": "EX BAT IZTT2200HL 220AH (M)",
+    "qty": 1,
+    "mop": 22000
+  },
+  {
+    "name": "EX BAT IZTT2500HL 250AH (M)",
+    "qty": 1,
+    "mop": 25000
+  },
+  {
+    "name": "EX INV GQP12V1450D CU_PS (M)",
+    "qty": 1,
+    "mop": 11000
+  },
+  {
+    "name": "EX INV STAR12V1125 AI_PS (M)",
+    "qty": 1,
+    "mop": 6500
+  },
+  {
+    "name": "EX INV STAR12V1625 AI_PS (M)",
+    "qty": 1,
+    "mop": 10000
+  },
+  {
     "name": "FLASH 120W (M)",
     "qty": 2,
     "mop": 999
@@ -81,7 +121,7 @@
   },
   {
     "name": "LAVA A1 JOSH (V)",
-    "qty": 5,
+    "qty": 1,
     "mop": 1300
   },
   {
@@ -90,23 +130,8 @@
     "mop": 1300
   },
   {
-    "name": "LAVA A2 SMART (V)",
-    "qty": 2,
-    "mop": 1450
-  },
-  {
-    "name": "LAVA A3 KING (V)",
-    "qty": 2,
-    "mop": 1500
-  },
-  {
-    "name": "LAVA A3 TORCH (V)",
-    "qty": 2,
-    "mop": 1500
-  },
-  {
     "name": "LAVA HERO SHAKTI (V)",
-    "qty": 7,
+    "qty": 2,
     "mop": 1199
   },
   {
@@ -116,7 +141,7 @@
   },
   {
     "name": "MOTO A10E (V)",
-    "qty": 4,
+    "qty": 2,
     "mop": 1549
   },
   {
