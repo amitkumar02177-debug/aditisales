@@ -11,7 +11,7 @@
   },
   {
     "name": "CMF BUDS 2 DARK GREY (M)",
-    "qty": 2,
+    "qty": 1,
     "mop": 2699
   },
   {
@@ -428,46 +428,6 @@
     "name": "VIVO Y11 5G 4/128 (M)",
     "qty": 1,
     "mop": 16999
-  },
-  {
-    "name": "WP DC 200_GEN_CLS_PLS 1 WIN_HAR (M)",
-    "qty": 1,
-    "mop": 14000
-  },
-  {
-    "name": "WP DC 200_IMPC_PRM 1 PUR_BLS (M)",
-    "qty": 1,
-    "mop": 15000
-  },
-  {
-    "name": "WP DC 205_IMPC_PRM 2 5PH_BLT (M)",
-    "qty": 1,
-    "mop": 17000
-  },
-  {
-    "name": "WP DC 215_IMPC_PRM 3 WIN_BLM (M)",
-    "qty": 1,
-    "mop": 18000
-  },
-  {
-    "name": "WP DC 215_IMPC_PRM 5 INV WIN_ENC (M)",
-    "qty": 1,
-    "mop": 19000
-  },
-  {
-    "name": "WP SA 7.0KG ACE_SUPPLUS CLR_RED (M)",
-    "qty": 1,
-    "mop": 12500
-  },
-  {
-    "name": "WP SA 7.5KG ACE_SUPSOAK GRY_DAZ (M)",
-    "qty": 1,
-    "mop": 13500
-  },
-  {
-    "name": "WP SA 8.0KG ACE_SUPSOAK XTR_PUR (M)",
-    "qty": 1,
-    "mop": 15500
   },
   {
     "name": "XIAOMI 22.5W CHARGER COMBO (V)",
