@@ -355,6 +355,21 @@
     "mop": 20000
   },
   {
+    "name": "RR20H2823UZ/NL (V)",
+    "qty": 1,
+    "mop": 20000
+  },
+  {
+    "name": "RR21H2H25BB/HL (V)",
+    "qty": 1,
+    "mop": 22000
+  },
+  {
+    "name": "RR21H2H25BR/HL (V)",
+    "qty": 1,
+    "mop": 22000
+  },
+  {
     "name": "SAMSUNG A07 5G 4/128 (V)",
     "qty": 1,
     "mop": 17000
@@ -370,9 +385,19 @@
     "mop": 10000
   },
   {
+    "name": "UA32H4520FUXXL (V)",
+    "qty": 4,
+    "mop": 17500
+  },
+  {
     "name": "UA43F5600FUXXL (V)",
     "qty": 2,
     "mop": 27000
+  },
+  {
+    "name": "UA43U8400HULXL (V)",
+    "qty": 1,
+    "mop": 35000
   },
   {
     "name": "VIVO T5 LITE 4/128 (V)",
@@ -418,5 +443,30 @@
     "name": "WP SA 8.0KG ACE_SUPSOAK XTR_PUR (V)",
     "qty": 1,
     "mop": 15500
+  },
+  {
+    "name": "WT10C4260GG/TL (V)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "WT70C3000RR/TL (V)",
+    "qty": 3,
+    "mop": 12000
+  },
+  {
+    "name": "WT75C3200GG/TL (V)",
+    "qty": 2,
+    "mop": 12500
+  },
+  {
+    "name": "WT80C4000RR/TL (V)",
+    "qty": 2,
+    "mop": 14500
+  },
+  {
+    "name": "WT90C4260GG/TL (V)",
+    "qty": 1,
+    "mop": 16000
   }
 ]
