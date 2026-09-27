@@ -70,6 +70,31 @@
     "mop": 950
   },
   {
+    "name": "LAVA A1 JOSH (V)",
+    "qty": 4,
+    "mop": 1300
+  },
+  {
+    "name": "LAVA A2 SMART (V)",
+    "qty": 2,
+    "mop": 1400
+  },
+  {
+    "name": "LAVA A3 KING (V)",
+    "qty": 2,
+    "mop": 1400
+  },
+  {
+    "name": "LAVA A3 TORCH (V)",
+    "qty": 2,
+    "mop": 1500
+  },
+  {
+    "name": "LAVA HERO SHAKTI (V)",
+    "qty": 5,
+    "mop": 1300
+  },
+  {
     "name": "LAVA SHARK 2 5G 4/64 (V)",
     "qty": 3,
     "mop": 15500
@@ -88,6 +113,11 @@
     "name": "LAVA YUVA SMART 4 PLUS 4/64 (V)",
     "qty": 1,
     "mop": 11500
+  },
+  {
+    "name": "MOTO A10E (V)",
+    "qty": 2,
+    "mop": 1500
   },
   {
     "name": "MOTO G37 4/64 (V)",
