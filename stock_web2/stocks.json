@@ -25,6 +25,26 @@
     "mop": 18000
   },
   {
+    "name": "BAJAJ EXH. MAX. NEO 150MM (V)",
+    "qty": 2,
+    "mop": 1499
+  },
+  {
+    "name": "BAJAJ KTX 1.2L DLX (V)",
+    "qty": 6,
+    "mop": 1099
+  },
+  {
+    "name": "BAJAJ KTX 1.5L DLX (V)",
+    "qty": 12,
+    "mop": 999
+  },
+  {
+    "name": "BAJAJ KTX 1.8L DLX (V)",
+    "qty": 6,
+    "mop": 1399
+  },
+  {
     "name": "EX BAT HBTT2250 150AH (V)",
     "qty": 1,
     "mop": 14000
@@ -80,6 +100,26 @@
     "mop": 24999
   },
   {
+    "name": "IRON CANVAS 1000W (V)",
+    "qty": 2,
+    "mop": 799
+  },
+  {
+    "name": "IRON DX2 600W (V)",
+    "qty": 6,
+    "mop": 799
+  },
+  {
+    "name": "IRON NEW POP. 1000W (V)",
+    "qty": 3,
+    "mop": 799
+  },
+  {
+    "name": "IRON NEW POP. 750W (V)",
+    "qty": 6,
+    "mop": 799
+  },
+  {
     "name": "ITEI IT5032 (V)",
     "qty": 1,
     "mop": 1400
@@ -108,6 +148,16 @@
     "name": "JIO BHARAT V4 (V)",
     "qty": 20,
     "mop": 950
+  },
+  {
+    "name": "JUC. MIX. JX20 500W (V)",
+    "qty": 1,
+    "mop": 3599
+  },
+  {
+    "name": "JUC. MIX. JX4 NEO 450W (V)",
+    "qty": 1,
+    "mop": 3099
   },
   {
     "name": "LAVA A1 JOSH (V)",
@@ -153,6 +203,46 @@
     "name": "LAVA YUVA SMART 4 PLUS 4/64 (V)",
     "qty": 1,
     "mop": 11500
+  },
+  {
+    "name": "MIX. DUETTO NEO 500W (V)",
+    "qty": 2,
+    "mop": 2950
+  },
+  {
+    "name": "MIX. ELEGANCE 500W (V)",
+    "qty": 2,
+    "mop": 2900
+  },
+  {
+    "name": "MIX. FINESSE 750W (V)",
+    "qty": 2,
+    "mop": 4099
+  },
+  {
+    "name": "MIX. GLORY 500W (V)",
+    "qty": 2,
+    "mop": 2950
+  },
+  {
+    "name": "MIX. NOTCH 500W (V)",
+    "qty": 6,
+    "mop": 2500
+  },
+  {
+    "name": "MIX. POWER GRIND+ 1000W (V)",
+    "qty": 1,
+    "mop": 5899
+  },
+  {
+    "name": "MIX. QUARTZ 750W (V)",
+    "qty": 2,
+    "mop": 3999
+  },
+  {
+    "name": "MIX. TWISTER 750W (V)",
+    "qty": 2,
+    "mop": 3999
   },
   {
     "name": "MOTO A10E (V)",
