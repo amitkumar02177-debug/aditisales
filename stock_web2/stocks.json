@@ -338,5 +338,45 @@
     "name": "VIVO T5 LITE 4/128 (V)",
     "qty": 1,
     "mop": 19999
+  },
+  {
+    "name": "WP DC 200_GEN_CLS_PLS 1 WIN_HAR (V)",
+    "qty": 1,
+    "mop": 14000
+  },
+  {
+    "name": "WP DC 200_IMPC_PRM 1 PUR_BLS (V)",
+    "qty": 1,
+    "mop": 15000
+  },
+  {
+    "name": "WP DC 205_IMPC_PRM 2 5PH_BLT (V)",
+    "qty": 1,
+    "mop": 16000
+  },
+  {
+    "name": "WP DC 215_IMPC_PRM 3 WIN_BLM (V)",
+    "qty": 1,
+    "mop": 18000
+  },
+  {
+    "name": "WP DC 215_IMPC_PRM 5 INV WIN_ENC (V)",
+    "qty": 1,
+    "mop": 20000
+  },
+  {
+    "name": "WP SA 7.0KG ACE_SUPPLUS CLR_RED (V)",
+    "qty": 1,
+    "mop": 12000
+  },
+  {
+    "name": "WP SA 7.5KG ACE_SUPSOAK GRY_DAZ (V)",
+    "qty": 1,
+    "mop": 13000
+  },
+  {
+    "name": "WP SA 8.0KG ACE_SUPSOAK XTR_PUR (V)",
+    "qty": 1,
+    "mop": 15500
   }
 ]
