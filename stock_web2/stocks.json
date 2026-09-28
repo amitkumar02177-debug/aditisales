@@ -25,9 +25,44 @@
     "mop": 18000
   },
   {
+    "name": "BAJAJ CHE. DECO CF 1200MM (V)",
+    "qty": 8,
+    "mop": 2600
+  },
+  {
+    "name": "BAJAJ CHETAK CF 1200MM (V)",
+    "qty": 16,
+    "mop": 2000
+  },
+  {
+    "name": "BAJAJ EDGE CF 1200MM (V)",
+    "qty": 8,
+    "mop": 2200
+  },
+  {
+    "name": "BAJAJ EDGE CF 900MM (V)",
+    "qty": 4,
+    "mop": 2000
+  },
+  {
+    "name": "BAJAJ ESTEEM PEDESTAL F (V)",
+    "qty": 2,
+    "mop": 3600
+  },
+  {
+    "name": "BAJAJ ESTEEM TF (V)",
+    "qty": 1,
+    "mop": 2900
+  },
+  {
     "name": "BAJAJ EXH. MAX. NEO 150MM (V)",
     "qty": 2,
     "mop": 1499
+  },
+  {
+    "name": "BAJAJ FARRATA F1 PED. (V)",
+    "qty": 1,
+    "mop": 3999
   },
   {
     "name": "BAJAJ KTX 1.2L DLX (V)",
@@ -43,6 +78,26 @@
     "name": "BAJAJ KTX 1.8L DLX (V)",
     "qty": 6,
     "mop": 1399
+  },
+  {
+    "name": "BAJAJ MAXIMA CF 600MM (V)",
+    "qty": 6,
+    "mop": 2000
+  },
+  {
+    "name": "BAJAJ ROBOSTO HS TF (V)",
+    "qty": 1,
+    "mop": 3199
+  },
+  {
+    "name": "BAJAJ TURBO PEDESTAL F (V)",
+    "qty": 2,
+    "mop": 3500
+  },
+  {
+    "name": "BAJAJ TURBO TF (V)",
+    "qty": 1,
+    "mop": 2700
   },
   {
     "name": "EX BAT HBTT2250 150AH (V)",
