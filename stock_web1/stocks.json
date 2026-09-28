@@ -381,8 +381,23 @@
   },
   {
     "name": "SAMSUNG A06 5G 4/128 (M)",
+    "qty": 2,
+    "mop": 17999
+  },
+  {
+    "name": "SAMSUNG A06 5G 4/64 (M)",
+    "qty": 2,
+    "mop": 15999
+  },
+  {
+    "name": "SAMSUNG A07 5G 4/128 (M)",
     "qty": 1,
-    "mop": 15499
+    "mop": 19999
+  },
+  {
+    "name": "SAMSUNG A17 6/128 (M)",
+    "qty": 1,
+    "mop": 27999
   },
   {
     "name": "SAMSUNG ADPTER 15W (M)",
@@ -398,6 +413,16 @@
     "name": "SAMSUNG F06 4/64 (M)",
     "qty": 1,
     "mop": ""
+  },
+  {
+    "name": "SAMSUNG F17 4/128 (M)",
+    "qty": 1,
+    "mop": 23499
+  },
+  {
+    "name": "SAMSUNG F17 6/128 (M)",
+    "qty": 1,
+    "mop": 26499
   },
   {
     "name": "SAMSUNG PD 25W (M)",
