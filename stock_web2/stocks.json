@@ -55,13 +55,78 @@
     "mop": 2900
   },
   {
+    "name": "BAJAJ EXH. BAHAR 225MM (V)",
+    "qty": 2,
+    "mop": 1700
+  },
+  {
+    "name": "BAJAJ EXH. BAHAR 300MM (V)",
+    "qty": 2,
+    "mop": 1800
+  },
+  {
     "name": "BAJAJ EXH. MAX. NEO 150MM (V)",
     "qty": 2,
     "mop": 1499
   },
   {
+    "name": "BAJAJ EXH. MAXI. NEO 200MM (V)",
+    "qty": 1,
+    "mop": 1600
+  },
+  {
+    "name": "BAJAJ EXH. MAXI. NEO 250MM (V)",
+    "qty": 2,
+    "mop": 1700
+  },
+  {
     "name": "BAJAJ FARRATA F1 PED. (V)",
     "qty": 1,
+    "mop": 3999
+  },
+  {
+    "name": "BAJAJ GYS. AQUA Q. 3L (V)",
+    "qty": 1,
+    "mop": 3500
+  },
+  {
+    "name": "BAJAJ GYS. AQUA Q. 6L (V)",
+    "qty": 1,
+    "mop": 6500
+  },
+  {
+    "name": "BAJAJ GYS. ASTOR 10L (V)",
+    "qty": 1,
+    "mop": 7500
+  },
+  {
+    "name": "BAJAJ GYS. ASTOR 15L (V)",
+    "qty": 1,
+    "mop": 7999
+  },
+  {
+    "name": "BAJAJ GYS. ASTOR 25L (V)",
+    "qty": 1,
+    "mop": 9999
+  },
+  {
+    "name": "BAJAJ GYS. IMMORTO 10L (V)",
+    "qty": 1,
+    "mop": 7500
+  },
+  {
+    "name": "BAJAJ GYS. IMMORTO 15L (V)",
+    "qty": 1,
+    "mop": 8999
+  },
+  {
+    "name": "BAJAJ GYS. IMMORTO 25L (V)",
+    "qty": 1,
+    "mop": 9999
+  },
+  {
+    "name": "BAJAJ INDUCTION IRX220F (V)",
+    "qty": 5,
     "mop": 3999
   },
   {
