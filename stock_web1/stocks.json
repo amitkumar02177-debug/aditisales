@@ -30,46 +30,6 @@
     "mop": 999
   },
   {
-    "name": "HAIER HRD-2061SMSFA-N 185L (M)",
-    "qty": 2,
-    "mop": 14999
-  },
-  {
-    "name": "HAIER HRD-2061SRAA-N 185L (M)",
-    "qty": 2,
-    "mop": 14999
-  },
-  {
-    "name": "HAIER HRD-2112PPSA-N 190L (M)",
-    "qty": 1,
-    "mop": 17500
-  },
-  {
-    "name": "HAIER HRD-2112PTSA-N 190L (M)",
-    "qty": 1,
-    "mop": 17999
-  },
-  {
-    "name": "HAIER HTW75-178BBK:NOIDA (M)",
-    "qty": 1,
-    "mop": 13999
-  },
-  {
-    "name": "HAIER HTW80-196BR:NOIDA (M)",
-    "qty": 2,
-    "mop": 14500
-  },
-  {
-    "name": "HAIER-HTW90-178FLN:NOIDA (M)",
-    "qty": 1,
-    "mop": 18999
-  },
-  {
-    "name": "HAIER-LE32A7-N:HIL/LED (M)",
-    "qty": 2,
-    "mop": 16999
-  },
-  {
     "name": "HMD VIBE 2 5G 6/128 (V)",
     "qty": 1,
     "mop": 16999
@@ -138,6 +98,71 @@
     "name": "LAVA YUVA SMART 4 3/64 (V)",
     "qty": 1,
     "mop": 10500
+  },
+  {
+    "name": "LG 32LB651BPLA (M)",
+    "qty": 3,
+    "mop": 17500
+  },
+  {
+    "name": "LG 43LB6500PLB (M)",
+    "qty": 2,
+    "mop": 28999
+  },
+  {
+    "name": "LG 43NU875BPLA (M)",
+    "qty": 1,
+    "mop": 36000
+  },
+  {
+    "name": "LG 7010NGAZ (M)",
+    "qty": 2,
+    "mop": 12500
+  },
+  {
+    "name": "LG GLD1816WOWR (M)",
+    "qty": 2,
+    "mop": 15000
+  },
+  {
+    "name": "LG GLD1925XOWB (M)",
+    "qty": 1,
+    "mop": 17000
+  },
+  {
+    "name": "LG GLD1956ZARG (M)",
+    "qty": 1,
+    "mop": 18999
+  },
+  {
+    "name": "LG GLD201APBD (M)",
+    "qty": 2,
+    "mop": 17999
+  },
+  {
+    "name": "LG GLT2216WYRO (M)",
+    "qty": 1,
+    "mop": 25999
+  },
+  {
+    "name": "LG P7510RBAZ (M)",
+    "qty": 2,
+    "mop": 13999
+  },
+  {
+    "name": "LG P8030SRAZA (M)",
+    "qty": 2,
+    "mop": 14500
+  },
+  {
+    "name": "LG PX900H3SK4Z (M)",
+    "qty": 3,
+    "mop": 16999
+  },
+  {
+    "name": "LG T80KMMB3Z (M)",
+    "qty": 1,
+    "mop": 21000
   },
   {
     "name": "MOTO A10E (V)",
