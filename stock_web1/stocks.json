@@ -30,6 +30,51 @@
     "mop": 999
   },
   {
+    "name": "GD RD 183L 1 ERIO+_205AN_THF SEWN (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD RD 183L 1 ERIO+_205AN_THF SSBL (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD RD 184L 3 EMAR_207CN_TDF FUBL (M)",
+    "qty": 1,
+    "mop": 18999
+  },
+  {
+    "name": "GD RD 184L 5 EMAR_207EN_TDI MGIG (M)",
+    "qty": 1,
+    "mop": 20999
+  },
+  {
+    "name": "GD WSEDGE 7.5KG 5.0_CPLS WRND (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD WSEDGE 80 5.0 TB3 M LVDR (M)",
+    "qty": 1,
+    "mop": 15999
+  },
+  {
+    "name": "GD WSEDGE CLS 7.5KG 5.0_PRA ECO (M)",
+    "qty": 2,
+    "mop": 12999
+  },
+  {
+    "name": "GD WSEDGE ULT 80 5.0 DB2 M MIGR (M)",
+    "qty": 1,
+    "mop": 17999
+  },
+  {
+    "name": "GD WSEDGE ULTS 80 5.0 DB2 M CSGR (M)",
+    "qty": 1,
+    "mop": 18499
+  },
+  {
     "name": "HMD VIBE 2 5G 6/128 (V)",
     "qty": 1,
     "mop": 16999
@@ -98,71 +143,6 @@
     "name": "LAVA YUVA SMART 4 3/64 (V)",
     "qty": 1,
     "mop": 10500
-  },
-  {
-    "name": "LG 32LB651BPLA (M)",
-    "qty": 3,
-    "mop": 17500
-  },
-  {
-    "name": "LG 43LB6500PLB (M)",
-    "qty": 2,
-    "mop": 28999
-  },
-  {
-    "name": "LG 43NU875BPLA (M)",
-    "qty": 1,
-    "mop": 36000
-  },
-  {
-    "name": "LG 7010NGAZ (M)",
-    "qty": 2,
-    "mop": 12500
-  },
-  {
-    "name": "LG GLD1816WOWR (M)",
-    "qty": 2,
-    "mop": 15000
-  },
-  {
-    "name": "LG GLD1925XOWB (M)",
-    "qty": 1,
-    "mop": 17000
-  },
-  {
-    "name": "LG GLD1956ZARG (M)",
-    "qty": 1,
-    "mop": 18999
-  },
-  {
-    "name": "LG GLD201APBD (M)",
-    "qty": 2,
-    "mop": 17999
-  },
-  {
-    "name": "LG GLT2216WYRO (M)",
-    "qty": 1,
-    "mop": 25999
-  },
-  {
-    "name": "LG P7510RBAZ (M)",
-    "qty": 2,
-    "mop": 13999
-  },
-  {
-    "name": "LG P8030SRAZA (M)",
-    "qty": 2,
-    "mop": 14500
-  },
-  {
-    "name": "LG PX900H3SK4Z (M)",
-    "qty": 3,
-    "mop": 16999
-  },
-  {
-    "name": "LG T80KMMB3Z (M)",
-    "qty": 1,
-    "mop": 21000
   },
   {
     "name": "MOTO A10E (V)",
