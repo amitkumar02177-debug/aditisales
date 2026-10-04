@@ -30,6 +30,61 @@
     "mop": 999
   },
   {
+    "name": "GD DC 183L 1 ERIO+_205AN_THF SSBL (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD DC 183L 1 ERIO+_205AN_THF WFWN (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD DC 183L 2 ERIO+_205BN_THF BMBL (M)",
+    "qty": 1,
+    "mop": 15999
+  },
+  {
+    "name": "GD DC 183L 2 ERIO+_205BN_THF BMWN (M)",
+    "qty": 1,
+    "mop": 15999
+  },
+  {
+    "name": "GD DC 184L 3 EMAR_207CN_TDF FUBL (M)",
+    "qty": 1,
+    "mop": 18999
+  },
+  {
+    "name": "GD DC 184L 3 EMAR_207CN_TDF FUWN (M)",
+    "qty": 1,
+    "mop": 18999
+  },
+  {
+    "name": "GD DC 194L 5 EMAR_215EN_TDI RSBM (M)",
+    "qty": 1,
+    "mop": 20999
+  },
+  {
+    "name": "GD FF 216L 1 EALP_205AN_RI STGL (M)",
+    "qty": 1,
+    "mop": 23999
+  },
+  {
+    "name": "GD SA 7.5KG ECLS_75_PRA WRND (M)",
+    "qty": 1,
+    "mop": 12999
+  },
+  {
+    "name": "GD SA 8.0KG ECLS_80_PRA SLGR (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
+    "name": "GD SA 8.0KG EULT_80_DB2M CSRD (M)",
+    "qty": 1,
+    "mop": 15999
+  },
+  {
     "name": "HMD VIBE 2 5G 6/128 (V)",
     "qty": 1,
     "mop": 16999
