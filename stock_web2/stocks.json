@@ -695,6 +695,11 @@
     "mop": 24999
   },
   {
+    "name": "REDMI A7 3/64 (V)",
+    "qty": 2,
+    "mop": 12500
+  },
+  {
     "name": "REDMI A7 PRO 4/64 (V)",
     "qty": 1,
     "mop": 11500
@@ -768,6 +773,16 @@
     "name": "RR21H2H25BR/HL (V)",
     "qty": 1,
     "mop": 22000
+  },
+  {
+    "name": "SAMSUNG A06 4/128 (V)",
+    "qty": 1,
+    "mop": 19000
+  },
+  {
+    "name": "SAMSUNG A06 4/64 (V)",
+    "qty": 1,
+    "mop": 16999
   },
   {
     "name": "SAMSUNG A07 5G 4/128 (V)",
