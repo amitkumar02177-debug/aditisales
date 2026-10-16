@@ -365,6 +365,11 @@
     "mop": 1599
   },
   {
+    "name": "REDMI A7 PRO 4/64 (M)",
+    "qty": 1,
+    "mop": 13999
+  },
+  {
     "name": "REDMI A7 PRO 5G 4/64 (V)",
     "qty": 1,
     "mop": 15499
@@ -393,6 +398,11 @@
     "name": "REDMI NOTE 17 8/128 (M)",
     "qty": 1,
     "mop": 30999
+  },
+  {
+    "name": "REDMI NOTE 17 PRO 8/256 (M)",
+    "qty": 1,
+    "mop": 39999
   },
   {
     "name": "REDMI SMART FIRE TV 32 (V)",
