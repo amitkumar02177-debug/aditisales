@@ -30,6 +30,11 @@
     "mop": 2499
   },
   {
+    "name": "CROMPTON MIX. 750W (V)",
+    "qty": 4,
+    "mop": 3000
+  },
+  {
     "name": "FLASH 120W (M)",
     "qty": 2,
     "mop": 999
@@ -223,11 +228,6 @@
     "name": "NOTHING 4A 8/256 (M)",
     "qty": 1,
     "mop": 46999
-  },
-  {
-    "name": "NOTHING 4B 6/128 (V)",
-    "qty": 2,
-    "mop": 29999
   },
   {
     "name": "NOTHING 4B 8/128 (M)",
