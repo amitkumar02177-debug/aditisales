@@ -6,7 +6,7 @@
   },
   {
     "name": "AI+ NOVA 2 6/128 (V)",
-    "qty": 3,
+    "qty": 2,
     "mop": 15999
   },
   {
@@ -96,18 +96,13 @@
   },
   {
     "name": "HMD VIBE 2 5G 4/128 (V)",
-    "qty": 3,
+    "qty": 2,
     "mop": 17999
   },
   {
     "name": "HMD VIBE 2 5G 6/128 (V)",
-    "qty": 3,
+    "qty": 2,
     "mop": 16999
-  },
-  {
-    "name": "INFINIX NOTE EDGE 8/128 (V)",
-    "qty": 1,
-    "mop": 22999
   },
   {
     "name": "IQOO Z11 6/128 (V)",
@@ -121,7 +116,7 @@
   },
   {
     "name": "IQOO Z11 LITE 4/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 19999
   },
   {
@@ -136,7 +131,7 @@
   },
   {
     "name": "IQOO Z11XA 8/128 (V)",
-    "qty": 3,
+    "qty": 2,
     "mop": 28999
   },
   {
@@ -201,7 +196,7 @@
   },
   {
     "name": "MOTO G37 4/64 (V)",
-    "qty": 6,
+    "qty": 4,
     "mop": 15999
   },
   {
@@ -361,7 +356,7 @@
   },
   {
     "name": "REDMI 15A 5G 4/64 (M)",
-    "qty": 4,
+    "qty": 3,
     "mop": 16499
   },
   {
@@ -486,11 +481,6 @@
   },
   {
     "name": "SAMSUNG A17 6/128 (M)",
-    "qty": 1,
-    "mop": 27999
-  },
-  {
-    "name": "SAMSUNG A36 8/128 (V)",
     "qty": 1,
     "mop": 27999
   },
