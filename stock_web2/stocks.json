@@ -600,6 +600,11 @@
     "mop": 32000
   },
   {
+    "name": "NOTHING 4B 6/128 (V)",
+    "qty": 2,
+    "mop": 29999
+  },
+  {
     "name": "NOTHING 4B 8/128 (V)",
     "qty": 1,
     "mop": 35000
