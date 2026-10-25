@@ -220,6 +220,11 @@
     "mop": 46999
   },
   {
+    "name": "NOTHING 4B 6/128 (V)",
+    "qty": 1,
+    "mop": 29999
+  },
+  {
     "name": "NOTHING 4B 8/128 (M)",
     "qty": 1,
     "mop": 34999
@@ -528,6 +533,11 @@
     "name": "VIVO T5 LITE 4/128 (V)",
     "qty": 1,
     "mop": 19999
+  },
+  {
+    "name": "VIVO T5 PRO 6/128 (V)",
+    "qty": 1,
+    "mop": 35999
   },
   {
     "name": "VIVO T5X 6/128 (V)",
