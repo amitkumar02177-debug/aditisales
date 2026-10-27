@@ -3,7 +3,7 @@
 let lastDataHash = "";
 
 const DATA_URL =
-"https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web1/stocks.json";
+"https://raw.githubusercontent.com/amitkumar02177-debug/aditisales/main/stock_web2/stocks.json";
 
 
 async function loadStocks(){
