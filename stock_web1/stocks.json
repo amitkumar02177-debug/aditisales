@@ -36,7 +36,7 @@
   },
   {
     "name": "CROMPTON MIX. 750W (V)",
-    "qty": 6,
+    "qty": 2,
     "mop": 3000
   },
   {
@@ -548,6 +548,11 @@
     "name": "VIVO Y11 5G 4/128 (M)",
     "qty": 1,
     "mop": 16999
+  },
+  {
+    "name": "VOLTAS 7.5 KG WM (V)",
+    "qty": 8,
+    "mop": 11999
   },
   {
     "name": "XIAOMI 22.5W CHARGER COMBO (V)",
