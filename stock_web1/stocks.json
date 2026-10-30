@@ -36,12 +36,12 @@
   },
   {
     "name": "CROMPTON MIX. 750W (V)",
-    "qty": 4,
+    "qty": 5,
     "mop": 3000
   },
   {
     "name": "CROMPTON MIXER 750W (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 3000
   },
   {
@@ -478,6 +478,11 @@
     "name": "SAMSUNG A17 6/128 (M)",
     "qty": 1,
     "mop": 27999
+  },
+  {
+    "name": "SAMSUNG AC 1.5 TON 3 STAR (V)",
+    "qty": 2,
+    "mop": 39999
   },
   {
     "name": "SAMSUNG ADPTER 15W (M)",
