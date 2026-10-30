@@ -36,12 +36,7 @@
   },
   {
     "name": "CROMPTON MIX. 750W (V)",
-    "qty": 5,
-    "mop": 3000
-  },
-  {
-    "name": "CROMPTON MIXER 750W (V)",
-    "qty": 1,
+    "qty": 6,
     "mop": 3000
   },
   {
@@ -123,6 +118,11 @@
     "name": "IQOO Z11 8/128 (V)",
     "qty": 1,
     "mop": 39999
+  },
+  {
+    "name": "IQOO Z11 LITE 4/64 (V)",
+    "qty": 1,
+    "mop": 17499
   },
   {
     "name": "IQOO Z11X 8/128 (V)",
@@ -481,7 +481,7 @@
   },
   {
     "name": "SAMSUNG AC 1.5 TON 3 STAR (V)",
-    "qty": 5,
+    "qty": 3,
     "mop": 39999
   },
   {
