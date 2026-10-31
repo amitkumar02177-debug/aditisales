@@ -106,12 +106,12 @@
   },
   {
     "name": "HMD VIBE 2 5G 4/128 (V)",
-    "qty": 2,
+    "qty": 1,
     "mop": 17999
   },
   {
     "name": "HMD VIBE 2 5G 6/128 (V)",
-    "qty": 1,
+    "qty": 2,
     "mop": 16999
   },
   {
@@ -218,11 +218,6 @@
     "name": "NOTHING 4A 8/256 (M)",
     "qty": 1,
     "mop": 46999
-  },
-  {
-    "name": "NOTHING 4B 6/128 (V)",
-    "qty": 1,
-    "mop": 29999
   },
   {
     "name": "NOTHING 4B 8/128 (M)",
