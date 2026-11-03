@@ -585,11 +585,6 @@
     "mop": 1500
   },
   {
-    "name": "MOTO G37 4/64 (V)",
-    "qty": 1,
-    "mop": 17000
-  },
-  {
     "name": "MOTO G37 POWER 8/128 (V)",
     "qty": 1,
     "mop": 22000
@@ -897,37 +892,47 @@
   {
     "name": "WP DC 200_GEN_CLS_PLS 1 WIN_HAR (V)",
     "qty": 1,
-    "mop": 14000
+    "mop": 13990
   },
   {
     "name": "WP DC 200_IMPC_PRM 1 PUR_BLS (V)",
     "qty": 1,
-    "mop": 15000
+    "mop": 14990
   },
   {
     "name": "WP DC 205_IMPC_PRM 2 5PH_BLT (V)",
     "qty": 1,
-    "mop": 16000
+    "mop": 16990
   },
   {
     "name": "WP DC 215_IMPC_PRM 5 INV WIN_ENC (V)",
     "qty": 1,
-    "mop": 20000
+    "mop": 19990
   },
   {
     "name": "WP SA 7.0KG ACE_SUPPLUS CLR_RED (V)",
     "qty": 1,
-    "mop": 12000
+    "mop": 12490
   },
   {
     "name": "WP SA 7.5KG ACE_SUPSOAK GRY_DAZ (V)",
     "qty": 1,
-    "mop": 13000
+    "mop": 12990
   },
   {
     "name": "WP SA 8.0KG ACE_SUPSOAK XTR_PUR (V)",
     "qty": 1,
-    "mop": 15500
+    "mop": 15990
+  },
+  {
+    "name": "WP SA 8.5KG ACE_TRBDRY_XTR_PUR_DAZ (V)",
+    "qty": 1,
+    "mop": "15990/-"
+  },
+  {
+    "name": "WP SA 9.0KG ACE_XL_DMIX_GRAY_DAZ (V)",
+    "qty": 1,
+    "mop": 16990
   },
   {
     "name": "WT10C4260GG/TL (V)",
