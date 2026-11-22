@@ -541,13 +541,18 @@
   },
   {
     "name": "MAHARAJA DRY IRON AERIO (V)",
-    "qty": 4,
+    "qty": 12,
     "mop": 799
   },
   {
     "name": "MAHARAJA DRY IRON DLX PLO (V)",
     "qty": 2,
     "mop": 1099
+  },
+  {
+    "name": "MAHARAJA HALOGEN HEATER LAVA (V)",
+    "qty": 4,
+    "mop": 2900
   },
   {
     "name": "MAHARAJA INDU. IR CHEF PLUS 2200W (V)",
@@ -583,6 +588,11 @@
     "name": "MAHARAJA MIX. TURBO TWIST (V)",
     "qty": 2,
     "mop": 3499
+  },
+  {
+    "name": "MAHARAJA ROOM HEATER QUATO (V)",
+    "qty": 2,
+    "mop": 1890
   },
   {
     "name": "MIVI ONE 5G 4/128 (V)",
